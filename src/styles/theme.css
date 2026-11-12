@@ -6,11 +6,11 @@
 :root {
   color-scheme: dark;
 
-  /* Typography. Cormorant Garamond is a high-contrast Garamond revival -- the regal
-     display face. Lora carries the body: its calligraphic, brush-drawn curves give the
-     same feeling at reading sizes, where a true script would be unreadable. */
+  /* Typography. Alegreya for headings: a warm calligraphic book face, the same face
+     the logo is drawn from. Lora carries the body: its brush-drawn curves read well
+     at running-text sizes. */
   --font-body: "Lora", Georgia, serif;
-  --font-heading: "Cormorant Garamond", Georgia, serif;
+  --font-heading: "Alegreya", Georgia, serif;
   --font-weight-body: 400;
   --font-size-body: 1.1rem;
   --font-size-main: 1.35rem;
@@ -19,82 +19,86 @@
   --heading-line-height: 1.15;
   --heading-font-weight: 700;
 
-  /* Core colors. Dark theme is a garden at night ("like a tree planted by streams of
-     water", Psalm 1:3): deep green ground, pale leaf text, bright green for anything
-     that acts. */
-  --color-bg: #0c130e;
-  --color-text: #d2e8db;
-  --color-heading: #e7f8ef;
-  --color-muted: #9ab6a4;
-  --color-link: #7dd29b;
-  --color-link-hover: #b3eecd;
-  --color-link-contrast: #f0fcf4;
-  --color-nav-bg: rgba(10, 16, 11, 0.94);
-  --color-nav-text: #ddf0e5;
-  --color-footer-bg: rgba(31, 45, 19, 0.96);
-  --color-footer-text: #cee8d9;
+  /* Core colors ("Shepherd", chosen 2026-11-12). Dark theme is olive and undyed
+     wool: a dark olive ground, wool-white text, pale olive for anything that acts.
+     No other question site uses this colour family. */
+  --color-bg: #12130d;
+  --color-text: #e2e2d2;
+  --color-heading: #f4f2e6;
+  --color-muted: #a5a68f;
+  --color-link: #cfd08a;
+  --color-link-hover: #e8e9b8;
+  --color-link-contrast: #fbfbf2;
+  --color-nav-bg: rgba(13, 14, 9, 0.94);
+  --color-nav-text: #ecebdc;
+  --color-footer-bg: rgba(30, 33, 18, 0.96);
+  --color-footer-text: #e2e2d2;
 
   /* Surface colors */
-  --surface-border: rgba(134, 192, 155, 0.22);
-  --surface-border-strong: rgba(149, 209, 171, 0.42);
-  --surface-border-soft: rgba(134, 192, 155, 0.12);
-  --surface-border-faint: rgba(134, 192, 155, 0.08);
-  --surface-bg-muted: rgba(238, 253, 245, 0.06);
-  --surface-bg-strong: rgba(68, 106, 74, 0.34);
-  --surface-bg-hover: rgba(86, 126, 38, 0.2);
-  --surface-result-bg: rgba(238, 253, 245, 0.06);
-  --surface-result-border: rgba(149, 209, 171, 0.12);
-  --surface-highlight: rgba(149, 209, 171, 0.16);
-  --tooltip-bg: rgba(240, 251, 245, 0.98);
-  --tooltip-text: #19271b;
-  --tooltip-border: rgba(80, 133, 93, 0.3);
+  --surface-border: rgba(182, 191, 98, 0.2);
+  --surface-border-strong: rgba(182, 191, 98, 0.4);
+  --surface-border-soft: rgba(182, 191, 98, 0.12);
+  --surface-border-faint: rgba(182, 191, 98, 0.08);
+  --surface-bg-muted: rgba(251, 251, 242, 0.06);
+  --surface-bg-strong: rgba(95, 106, 36, 0.34);
+  --surface-bg-hover: rgba(95, 106, 36, 0.22);
+  --surface-result-bg: rgba(251, 251, 242, 0.06);
+  --surface-result-border: rgba(182, 191, 98, 0.12);
+  --surface-highlight: rgba(207, 208, 138, 0.18);
+  --tooltip-bg: rgba(250, 249, 240, 0.98);
+  --tooltip-text: #1a1b10;
+  --tooltip-border: rgba(95, 106, 36, 0.3);
 
   /* Inputs */
-  --input-bg: #141b13;
-  --input-border: rgba(134, 192, 155, 0.24);
-  --input-text: #d2e8db;
-  --input-placeholder: #839f8c;
+  --input-bg: #1a1c12;
+  --input-border: rgba(182, 191, 98, 0.24);
+  --input-text: #e2e2d2;
+  --input-placeholder: #8f907a;
 
   /* Text accents */
-  --meta-text: #b4d0c0;
-  --secondary-text: #c2dcce;
-  --highlight-text: #9ce3b9;
+  --meta-text: #c4c4ae;
+  --secondary-text: #d3d3c0;
+  --highlight-text: #cfd08a;
 
   /* Accent */
-  --accent-bg: #567e26;
-  --accent-bg-hover: #659636;
-  --accent-text: #f0fcf4;
+  --accent-bg: #5f6a24;
+  --accent-bg-hover: #717d2c;
+  --accent-text: #fbfbf2;
 
   /* Pills / chips */
-  --pill-bg: rgba(238, 253, 245, 0.12);
-  --pill-bg-secondary: rgba(238, 253, 245, 0.06);
-  --pill-bg-hover: rgba(154, 218, 169, 0.2);
-  --chip-bg: rgba(23, 34, 22, 0.56);
-  --chip-border: rgba(134, 192, 155, 0.26);
-  --chip-hover-bg: rgba(86, 126, 38, 0.32);
-  --chip-hover-border: rgba(154, 218, 169, 0.42);
+  --pill-bg: rgba(251, 251, 242, 0.12);
+  --pill-bg-secondary: rgba(251, 251, 242, 0.06);
+  --pill-bg-hover: rgba(207, 208, 138, 0.2);
+  --chip-bg: rgba(30, 33, 18, 0.56);
+  --chip-border: rgba(182, 191, 98, 0.26);
+  --chip-hover-bg: rgba(95, 106, 36, 0.32);
+  --chip-hover-border: rgba(207, 208, 138, 0.42);
 
   /* Cards */
-  --card-bg: linear-gradient(180deg, rgba(22, 33, 22, 0.97), rgba(11, 16, 10, 0.99));
-  --card-border: rgba(134, 192, 155, 0.18);
-  --card-hover-border: rgba(149, 209, 171, 0.38);
-  --card-hover-bg: rgba(86, 126, 38, 0.2);
-  --question-card-hover-bg: rgba(86, 126, 38, 0.16);
-  --category-card-hover-bg: rgba(86, 126, 38, 0.18);
-  --resource-card-hover-bg: rgba(86, 126, 38, 0.16);
+  --card-bg: linear-gradient(180deg, rgba(29, 31, 21, 0.97), rgba(17, 18, 12, 0.99));
+  --card-border: rgba(182, 191, 98, 0.18);
+  --card-hover-border: rgba(207, 208, 138, 0.4);
+  --card-hover-bg: rgba(95, 106, 36, 0.2);
+  --question-card-hover-bg: rgba(95, 106, 36, 0.16);
+  --category-card-hover-bg: rgba(95, 106, 36, 0.18);
+  --resource-card-hover-bg: rgba(95, 106, 36, 0.16);
 
   /* Question & answer emphasis: sets the Q&A apart from surrounding page text. */
-  --qa-accent: rgba(101, 150, 54, 0.85);
-  --qa-answer-bg: rgba(238, 253, 245, 0.05);
-  --qa-answer-border: rgba(149, 209, 171, 0.16);
+  --qa-accent: rgba(182, 191, 98, 0.85);
+  --qa-answer-bg: rgba(251, 251, 242, 0.05);
+  --qa-answer-border: rgba(182, 191, 98, 0.16);
 
   /* Misc */
-  --question-group-label-color: rgba(238, 253, 245, 0.75);
-  --question-id-color: rgba(238, 253, 245, 0.7);
-  --question-accent-bg: rgba(238, 253, 245, 0.08);
-  --question-accent-border: rgba(149, 209, 171, 0.26);
+  --question-group-label-color: rgba(251, 251, 242, 0.75);
+  --question-id-color: rgba(251, 251, 242, 0.7);
+  --question-accent-bg: rgba(251, 251, 242, 0.08);
+  --question-accent-border: rgba(182, 191, 98, 0.26);
   --question-accent-text: var(--question-id-color);
   --logo-filter: invert(0);
+
+  /* Glow behind the top of the page. */
+  --glow-a: rgba(95, 106, 36, 0.3);
+  --glow-b: rgba(207, 208, 138, 0.1);
 
   /* Shared sizing / effects */
   --radius-card: 16px;
@@ -115,80 +119,83 @@
 [data-theme="light"] {
   color-scheme: light;
 
-  /* Core colors. Light theme is the same garden at midday: pale green ground, dark
-     green text, the same greens darkened enough to hold contrast on a light page. */
-  --color-bg: #ebf9f2;
-  --color-text: #233629;
-  --color-heading: #18261c;
-  --color-muted: #5a7463;
-  --color-link: #417632;
-  --color-link-hover: #2f5822;
-  --color-link-contrast: #f9fffc;
-  --color-nav-bg: rgba(242, 252, 247, 0.94);
-  --color-nav-text: #202e22;
-  --color-footer-bg: rgba(219, 239, 228, 0.95);
-  --color-footer-text: #202e22;
+  /* Core colors. Light theme is the same olive on wool: the olive darkens enough to
+     hold contrast on a light page. */
+  --color-bg: #f5f4ec;
+  --color-text: #262719;
+  --color-heading: #1a1b10;
+  --color-muted: #64654f;
+  --color-link: #556017;
+  --color-link-hover: #3c440f;
+  --color-link-contrast: #fdfdf8;
+  --color-nav-bg: rgba(251, 250, 245, 0.94);
+  --color-nav-text: #22231a;
+  --color-footer-bg: rgba(236, 235, 220, 0.95);
+  --color-footer-text: #22231a;
 
   /* Surface colors */
-  --surface-border: rgba(80, 134, 101, 0.18);
-  --surface-border-strong: rgba(80, 134, 101, 0.32);
-  --surface-border-soft: rgba(80, 134, 101, 0.1);
-  --surface-border-faint: rgba(80, 134, 101, 0.08);
-  --surface-bg-muted: rgba(249, 255, 252, 0.7);
-  --surface-bg-strong: rgba(108, 159, 128, 0.14);
-  --surface-bg-hover: rgba(86, 126, 38, 0.1);
-  --surface-result-bg: rgba(245, 252, 249, 0.96);
-  --surface-result-border: rgba(80, 134, 101, 0.12);
-  --surface-highlight: rgba(80, 134, 101, 0.14);
-  --tooltip-bg: rgba(23, 36, 25, 0.97);
-  --tooltip-text: #e9f7f0;
-  --tooltip-border: rgba(88, 146, 110, 0.3);
+  --surface-border: rgba(95, 106, 36, 0.16);
+  --surface-border-strong: rgba(95, 106, 36, 0.3);
+  --surface-border-soft: rgba(95, 106, 36, 0.1);
+  --surface-border-faint: rgba(95, 106, 36, 0.07);
+  --surface-bg-muted: rgba(253, 253, 248, 0.7);
+  --surface-bg-strong: rgba(111, 124, 30, 0.12);
+  --surface-bg-hover: rgba(95, 106, 36, 0.08);
+  --surface-result-bg: rgba(253, 253, 248, 0.96);
+  --surface-result-border: rgba(95, 106, 36, 0.12);
+  --surface-highlight: rgba(111, 124, 30, 0.16);
+  --tooltip-bg: rgba(26, 27, 16, 0.97);
+  --tooltip-text: #f4f2e6;
+  --tooltip-border: rgba(95, 106, 36, 0.3);
 
   /* Inputs */
-  --input-bg: #f9fffc;
-  --input-border: rgba(80, 134, 101, 0.18);
-  --input-text: #1f3125;
-  --input-placeholder: rgba(43, 68, 51, 0.52);
+  --input-bg: #fdfdf8;
+  --input-border: rgba(95, 106, 36, 0.18);
+  --input-text: #262719;
+  --input-placeholder: rgba(38, 39, 25, 0.5);
 
   /* Text accents */
-  --meta-text: rgba(31, 48, 36, 0.76);
-  --secondary-text: rgba(31, 48, 36, 0.68);
-  --highlight-text: #466a1c;
+  --meta-text: rgba(38, 39, 25, 0.76);
+  --secondary-text: rgba(38, 39, 25, 0.68);
+  --highlight-text: #556017;
 
   /* Pills / chips */
-  --pill-bg: rgba(249, 255, 252, 0.85);
-  --pill-bg-secondary: rgba(249, 255, 252, 0.52);
-  --pill-bg-hover: rgba(86, 126, 38, 0.1);
-  --chip-bg: rgba(249, 255, 252, 0.82);
-  --chip-border: rgba(80, 134, 101, 0.16);
-  --chip-hover-bg: rgba(86, 126, 38, 0.1);
-  --chip-hover-border: rgba(65, 118, 50, 0.3);
+  --pill-bg: rgba(253, 253, 248, 0.85);
+  --pill-bg-secondary: rgba(253, 253, 248, 0.52);
+  --pill-bg-hover: rgba(95, 106, 36, 0.1);
+  --chip-bg: rgba(253, 253, 248, 0.82);
+  --chip-border: rgba(95, 106, 36, 0.16);
+  --chip-hover-bg: rgba(95, 106, 36, 0.08);
+  --chip-hover-border: rgba(95, 106, 36, 0.3);
 
   /* Cards */
-  --card-bg: linear-gradient(180deg, rgba(251, 255, 254, 0.99), rgba(228, 244, 235, 0.98));
-  --card-border: rgba(80, 134, 101, 0.16);
-  --card-hover-border: rgba(72, 118, 88, 0.28);
-  --card-hover-bg: rgba(86, 126, 38, 0.08);
-  --question-card-hover-bg: rgba(86, 126, 38, 0.05);
-  --category-card-hover-bg: rgba(86, 126, 38, 0.06);
-  --resource-card-hover-bg: rgba(86, 126, 38, 0.05);
+  --card-bg: linear-gradient(180deg, rgba(255, 255, 252, 0.99), rgba(240, 239, 226, 0.98));
+  --card-border: rgba(95, 106, 36, 0.14);
+  --card-hover-border: rgba(111, 124, 30, 0.4);
+  --card-hover-bg: rgba(95, 106, 36, 0.06);
+  --question-card-hover-bg: rgba(95, 106, 36, 0.04);
+  --category-card-hover-bg: rgba(95, 106, 36, 0.05);
+  --resource-card-hover-bg: rgba(95, 106, 36, 0.04);
 
   /* Question & answer emphasis. A white tint would vanish against the light card,
      so the answer is tinted with the warm surface hue instead. */
-  --shadow-card: 0 4px 10px rgba(35, 65, 43, 0.1);
-  --shadow-card-hover: 0 8px 18px rgba(35, 65, 43, 0.16);
+  --shadow-card: 0 4px 10px rgba(40, 44, 20, 0.1);
+  --shadow-card-hover: 0 8px 18px rgba(40, 44, 20, 0.16);
 
-  --qa-accent: #417632;
-  --qa-answer-bg: rgba(80, 134, 101, 0.08);
-  --qa-answer-border: rgba(80, 134, 101, 0.2);
+  --qa-accent: #6f7c1e;
+  --qa-answer-bg: rgba(95, 106, 36, 0.05);
+  --qa-answer-border: rgba(95, 106, 36, 0.16);
 
   /* Misc */
-  --question-group-label-color: rgba(25, 39, 27, 0.65);
-  --question-id-color: rgba(25, 39, 27, 0.9);
-  --question-accent-bg: rgba(249, 255, 252, 0.88);
-  --question-accent-border: rgba(80, 134, 101, 0.26);
+  --question-group-label-color: rgba(26, 27, 16, 0.65);
+  --question-id-color: rgba(26, 27, 16, 0.9);
+  --question-accent-bg: rgba(253, 253, 248, 0.88);
+  --question-accent-border: rgba(95, 106, 36, 0.24);
   --question-accent-text: var(--question-id-color);
   --logo-filter: none;
+
+  --glow-a: rgba(95, 106, 36, 0.1);
+  --glow-b: rgba(111, 124, 30, 0.08);
 }
 
 /* Long-form prose (about, copyright). Nothing here was styled: there is no `p`,
@@ -251,9 +258,11 @@
 /* === Global Styles === */
 body {
   background:
-    radial-gradient(circle at top left, rgba(86, 126, 38, 0.26), transparent 30%),
-    radial-gradient(circle at top right, rgba(63, 164, 119, 0.26), transparent 32%),
-    radial-gradient(circle at 50% 0%, rgba(238, 253, 245, 0.06), transparent 42%),
+    /* Sized in rem, not percent: a percentage circle grows with the page, and on a
+       long page it washed the whole screen in the glow colour. */
+    radial-gradient(ellipse 70rem 45rem at top left, var(--glow-a), transparent 70%),
+    radial-gradient(ellipse 60rem 40rem at top right, var(--glow-b), transparent 70%),
+    radial-gradient(ellipse 80rem 30rem at 50% 0%, rgba(251, 251, 242, 0.05), transparent 70%),
     linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(0, 0, 0, 0.05)), var(--color-bg);
   color: var(--color-text);
   font-family: var(--font-body);
@@ -303,6 +312,23 @@ h3 {
 .page-title {
   margin: 0 0 1.5rem;
   font-size: 2.1rem;
+}
+
+/* The verse under the homepage heading (Proverbs 20:5, the site's motto). */
+.page-tagline {
+  margin: -0.4rem 0 0.6rem;
+  max-width: 46rem;
+  font-size: 1.05rem;
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--color-muted);
+}
+
+.page-tagline cite {
+  font-style: normal;
+  font-weight: 600;
+  color: var(--color-link);
+  white-space: nowrap;
 }
 
 /* === Main Content === */
