@@ -3,7 +3,7 @@ id: 10
 title: Does biblical counseling ignore the body?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-biblical-counseling-only-for-christians
   - should-christians-take-medication-for-depression-or-anxiety

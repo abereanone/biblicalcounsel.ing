@@ -3,7 +3,7 @@ id: 67
 title: How can I be trained to counsel others biblically?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-acbc-certification
   - what-is-the-role-of-homework-in-counseling

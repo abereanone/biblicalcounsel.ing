@@ -3,7 +3,7 @@ id: 28
 title: How does Scripture speak to trauma?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-lament
   - what-about-fight-flight-or-freeze

@@ -3,7 +3,7 @@ id: 37
 title: What does the Bible say about anxiety?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-should-i-do-if-i-am-thinking-about-suicide
   - how-do-i-fight-fear

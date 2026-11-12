@@ -3,7 +3,7 @@ id: 17
 title: "What does it mean to \"put off\" and \"put on\"?"
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-do-people-change
   - how-is-the-mind-renewed

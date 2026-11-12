@@ -3,7 +3,7 @@ id: 62
 title: How can the church help veterans after they come home?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-church-members-counsel-one-another
   - should-biblical-counseling-be-free

@@ -3,7 +3,7 @@ id: 56
 title: How should parents respond to a rebellious child?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-parents-discipline-their-children
   - how-should-i-honor-difficult-parents

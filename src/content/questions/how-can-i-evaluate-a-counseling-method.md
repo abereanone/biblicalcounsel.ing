@@ -3,7 +3,7 @@ id: 5
 title: How can I tell whether a counseling method is biblical?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - can-psychology-and-the-bible-be-integrated
   - what-is-the-goal-of-biblical-counseling

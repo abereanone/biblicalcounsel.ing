@@ -3,7 +3,7 @@ id: 45
 title: How do I fight pornography and sexual sin?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-i-break-free-from-addiction
   - how-should-i-think-about-loneliness

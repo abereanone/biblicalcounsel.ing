@@ -3,7 +3,7 @@ id: 35
 title: What hope do Christians have in suffering?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - does-god-promise-to-take-away-my-suffering
   - how-can-i-help-a-friend-who-is-suffering

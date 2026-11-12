@@ -3,7 +3,7 @@ id: 49
 title: How can a husband and wife resolve conflict?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-gods-design-for-marriage
   - how-should-a-husband-love-his-wife

@@ -3,7 +3,7 @@ id: 33
 title: How can I help a friend who is suffering?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-if-i-feel-like-god-has-abandoned-me
   - does-god-promise-to-take-away-my-suffering

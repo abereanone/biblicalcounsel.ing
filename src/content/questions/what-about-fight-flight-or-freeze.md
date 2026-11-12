@@ -3,7 +3,7 @@ id: 29
 title: "Are \"fight, flight or freeze\" responses sinful?"
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-does-scripture-speak-to-trauma
   - where-should-i-look-when-i-am-suffering

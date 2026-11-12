@@ -3,7 +3,7 @@ id: 64
 title: Is what I say in counseling kept confidential?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-biblical-counseling-be-free
   - how-do-i-find-a-good-biblical-counselor

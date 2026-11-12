@@ -3,7 +3,7 @@ id: 13
 title: "What does the Bible mean by \"the heart\"?"
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-do-i-do-what-i-do
   - what-is-an-idol-of-the-heart

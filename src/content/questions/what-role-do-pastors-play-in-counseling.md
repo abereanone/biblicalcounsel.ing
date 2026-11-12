@@ -3,7 +3,7 @@ id: 60
 title: What role do pastors play in counseling?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-does-counseling-belong-in-the-local-church
   - how-can-church-members-counsel-one-another

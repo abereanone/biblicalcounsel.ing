@@ -3,7 +3,7 @@ id: 12
 title: What is nouthetic counseling?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - should-christians-take-medication-for-depression-or-anxiety
   - does-biblical-counseling-ignore-the-body

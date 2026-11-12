@@ -3,7 +3,7 @@ id: 1
 title: What is biblical counseling?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-scripture-sufficient-for-counseling
   - how-is-biblical-counseling-different-from-secular-psychology

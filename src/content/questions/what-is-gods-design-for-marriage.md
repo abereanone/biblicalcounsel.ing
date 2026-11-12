@@ -3,7 +3,7 @@ id: 48
 title: "What is God's design for marriage?"
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-we-resolve-conflict-in-marriage
   - how-should-a-husband-love-his-wife

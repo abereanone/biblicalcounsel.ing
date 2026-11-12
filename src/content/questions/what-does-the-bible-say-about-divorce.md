@@ -3,7 +3,7 @@ id: 54
 title: What does the Bible say about divorce?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-should-i-do-if-i-am-being-abused
   - how-should-parents-discipline-their-children

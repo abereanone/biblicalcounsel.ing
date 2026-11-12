@@ -3,7 +3,7 @@ id: 20
 title: "Is every problem caused by the person's own sin?"
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-role-does-the-holy-spirit-play-in-change
   - what-about-feelings-and-emotions

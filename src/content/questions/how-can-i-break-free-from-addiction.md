@@ -3,7 +3,7 @@ id: 44
 title: How can I break free from addiction?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-i-be-free-from-guilt-and-shame
   - how-do-i-fight-pornography-and-sexual-sin

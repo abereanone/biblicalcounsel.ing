@@ -3,7 +3,7 @@ id: 68
 title: Why do biblical counselors give homework?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-i-be-trained-to-counsel
   - what-is-acbc-certification

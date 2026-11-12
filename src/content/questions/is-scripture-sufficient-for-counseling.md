@@ -3,7 +3,7 @@ id: 2
 title: Is Scripture sufficient for counseling?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-biblical-counseling
   - how-is-biblical-counseling-different-from-secular-psychology

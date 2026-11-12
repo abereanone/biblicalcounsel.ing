@@ -3,7 +3,7 @@ id: 6
 title: What is the goal of biblical counseling?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-i-evaluate-a-counseling-method
   - who-can-give-biblical-counsel

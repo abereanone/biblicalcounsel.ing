@@ -3,7 +3,7 @@ id: 50
 title: How should a husband love his wife?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-we-resolve-conflict-in-marriage
   - how-should-a-wife-respect-her-husband

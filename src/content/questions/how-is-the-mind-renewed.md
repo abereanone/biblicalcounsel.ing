@@ -3,7 +3,7 @@ id: 18
 title: How is the mind renewed?
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-put-off-and-put-on-mean
   - what-role-does-the-holy-spirit-play-in-change

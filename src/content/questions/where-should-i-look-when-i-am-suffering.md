@@ -3,7 +3,7 @@ id: 30
 title: Where should I look when I am suffering?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-about-fight-flight-or-freeze
   - how-do-i-grieve-as-a-christian

@@ -3,7 +3,7 @@ id: 46
 title: How should I think about loneliness?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-do-i-fight-pornography-and-sexual-sin
   - what-about-people-pleasing-and-the-fear-of-man

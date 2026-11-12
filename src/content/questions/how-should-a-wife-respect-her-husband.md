@@ -3,7 +3,7 @@ id: 51
 title: How should a wife respect her husband?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-a-husband-love-his-wife
   - how-can-we-communicate-better

@@ -3,7 +3,7 @@ id: 57
 title: How do I honor parents who are difficult or who hurt me?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-parents-respond-to-a-rebellious-child
   - how-can-singleness-be-lived-well

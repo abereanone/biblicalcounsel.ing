@@ -3,7 +3,7 @@ id: 42
 title: How do I forgive someone who hurt me?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-do-i-overcome-bitterness
   - how-can-i-be-free-from-guilt-and-shame

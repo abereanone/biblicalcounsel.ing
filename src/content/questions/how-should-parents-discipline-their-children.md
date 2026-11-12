@@ -3,7 +3,7 @@ id: 55
 title: How should Christian parents discipline their children?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-bible-say-about-divorce
   - how-should-parents-respond-to-a-rebellious-child

@@ -3,7 +3,7 @@ id: 39
 title: What does the Bible say about depression?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-do-i-fight-fear
   - how-should-i-deal-with-anger

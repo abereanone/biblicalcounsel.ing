@@ -3,7 +3,7 @@ id: 8
 title: What happens in biblical counseling?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - who-can-give-biblical-counsel
   - is-biblical-counseling-only-for-christians

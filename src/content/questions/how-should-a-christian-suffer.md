@@ -3,7 +3,7 @@ id: 26
 title: How should a Christian respond to suffering?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-does-god-allow-his-people-to-suffer
   - what-is-lament

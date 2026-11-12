@@ -3,7 +3,7 @@ id: 19
 title: What role does the Holy Spirit play in change?
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-is-the-mind-renewed
   - is-sin-the-root-of-every-problem

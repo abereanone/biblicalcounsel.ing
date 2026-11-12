@@ -3,7 +3,7 @@ id: 4
 title: Can psychology and the Bible be integrated?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-is-biblical-counseling-different-from-secular-psychology
   - how-can-i-evaluate-a-counseling-method

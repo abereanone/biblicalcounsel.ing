@@ -3,7 +3,7 @@ id: 47
 title: "How do I stop living for other people's approval?"
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-i-think-about-loneliness
   - how-do-i-fight-pornography-and-sexual-sin

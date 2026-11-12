@@ -3,7 +3,7 @@ id: 59
 title: Why does counseling belong in the local church?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-role-do-pastors-play-in-counseling
   - how-can-church-members-counsel-one-another

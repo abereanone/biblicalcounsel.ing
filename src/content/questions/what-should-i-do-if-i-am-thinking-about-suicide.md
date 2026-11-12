@@ -3,7 +3,7 @@ id: 36
 title: What should I do if I am thinking about ending my life?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-bible-say-about-anxiety
   - how-do-i-fight-fear

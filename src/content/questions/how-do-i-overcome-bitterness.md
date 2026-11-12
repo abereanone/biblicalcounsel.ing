@@ -3,7 +3,7 @@ id: 41
 title: How do I overcome bitterness?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-i-deal-with-anger
   - how-do-i-forgive-someone-who-hurt-me

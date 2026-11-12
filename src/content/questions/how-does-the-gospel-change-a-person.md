@@ -3,7 +3,7 @@ id: 22
 title: How does the gospel change a person?
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-about-feelings-and-emotions
   - what-is-repentance

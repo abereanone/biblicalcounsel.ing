@@ -3,7 +3,7 @@ id: 38
 title: How do I fight fear?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-bible-say-about-anxiety
   - what-does-the-bible-say-about-depression

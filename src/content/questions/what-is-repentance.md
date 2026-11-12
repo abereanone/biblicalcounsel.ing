@@ -3,7 +3,7 @@ id: 23
 title: What is repentance?
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-does-the-gospel-change-a-person
   - what-about-feelings-and-emotions

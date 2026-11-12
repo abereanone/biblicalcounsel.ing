@@ -3,7 +3,7 @@ id: 61
 title: How can ordinary church members counsel one another?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-role-do-pastors-play-in-counseling
   - how-can-the-church-help-veterans-after-they-come-home

@@ -3,7 +3,7 @@ id: 32
 title: What if I feel like God has abandoned me?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-do-i-grieve-as-a-christian
   - how-can-i-help-a-friend-who-is-suffering

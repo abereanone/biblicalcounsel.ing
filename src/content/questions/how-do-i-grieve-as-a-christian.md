@@ -3,7 +3,7 @@ id: 31
 title: How should a Christian grieve?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - where-should-i-look-when-i-am-suffering
   - what-if-i-feel-like-god-has-abandoned-me

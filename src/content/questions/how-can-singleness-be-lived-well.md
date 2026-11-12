@@ -3,7 +3,7 @@ id: 58
 title: How can a single Christian live well?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-i-honor-difficult-parents
   - how-should-parents-respond-to-a-rebellious-child

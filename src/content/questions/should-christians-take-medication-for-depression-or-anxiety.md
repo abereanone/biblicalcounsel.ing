@@ -3,7 +3,7 @@ id: 11
 title: Should Christians take medication for depression or anxiety?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - does-biblical-counseling-ignore-the-body
   - what-is-nouthetic-counseling

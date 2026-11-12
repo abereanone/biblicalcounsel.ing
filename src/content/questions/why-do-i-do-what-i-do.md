@@ -3,7 +3,7 @@ id: 14
 title: "Why do I keep doing what I don't want to do?"
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-bible-mean-by-the-heart
   - what-is-an-idol-of-the-heart

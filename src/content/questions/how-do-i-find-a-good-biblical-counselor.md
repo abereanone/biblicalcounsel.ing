@@ -3,7 +3,7 @@ id: 65
 title: How do I find a good biblical counselor?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-counseling-confidential
   - what-is-acbc-certification

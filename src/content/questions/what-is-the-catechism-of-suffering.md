@@ -3,7 +3,7 @@ id: 24
 title: What is the Catechism of Suffering, and how can it help?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-does-god-allow-his-people-to-suffer
   - how-should-a-christian-suffer

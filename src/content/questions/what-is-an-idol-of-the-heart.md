@@ -3,7 +3,7 @@ id: 15
 title: What is an idol of the heart?
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - why-do-i-do-what-i-do
   - how-do-people-change

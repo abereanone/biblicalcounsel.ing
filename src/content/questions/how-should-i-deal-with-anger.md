@@ -3,7 +3,7 @@ id: 40
 title: How should I deal with anger?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-does-the-bible-say-about-depression
   - how-do-i-overcome-bitterness

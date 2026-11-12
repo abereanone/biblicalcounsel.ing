@@ -1,13 +1,5 @@
 [
   {
-    "id": "ai",
-    "name": "AI draft",
-    "url": "https://michaelcoughlin.net",
-    "title": "AI",
-    "bio": "Answers drafted with Claude (Anthropic) for Michael Coughlin to review. They aim to agree with the 1689 Baptist Confession of Faith, and every answer rests on the Scripture cited under it.",
-    "sortOrder": 10
-  },
-  {
     "id": "mac",
     "photo": "/images/resources/mac.jpg",
     "name": "Michael Coughlin",
@@ -36,6 +28,7 @@
   },
   {
     "id": "acbc",
+    "logo": "/images/resources/acbc.png",
     "name": "Association of Certified Biblical Counselors",
     "url": "https://biblicalcounseling.com",
     "title": "Website",

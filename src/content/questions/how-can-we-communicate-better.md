@@ -3,7 +3,7 @@ id: 52
 title: How can we communicate better?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-a-wife-respect-her-husband
   - what-should-i-do-if-i-am-being-abused

@@ -3,7 +3,7 @@ id: 25
 title: Why does God allow His people to suffer?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-the-catechism-of-suffering
   - how-should-a-christian-suffer

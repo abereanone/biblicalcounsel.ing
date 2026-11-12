@@ -3,7 +3,7 @@ id: 16
 title: How do people really change?
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-an-idol-of-the-heart
   - what-does-put-off-and-put-on-mean

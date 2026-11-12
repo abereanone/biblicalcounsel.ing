@@ -3,7 +3,7 @@ id: 34
 title: Does God promise to take away my suffering?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-i-help-a-friend-who-is-suffering
   - what-hope-do-christians-have-in-suffering

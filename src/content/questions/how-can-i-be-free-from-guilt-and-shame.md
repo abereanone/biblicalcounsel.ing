@@ -3,7 +3,7 @@ id: 43
 title: How can I be free from guilt and shame?
 categories:
   - struggles
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-do-i-forgive-someone-who-hurt-me
   - how-can-i-break-free-from-addiction

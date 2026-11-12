@@ -3,7 +3,7 @@ id: 21
 title: How should a Christian think about feelings and emotions?
 categories:
   - heart
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-sin-the-root-of-every-problem
   - how-does-the-gospel-change-a-person

@@ -3,7 +3,7 @@ id: 9
 title: Is biblical counseling only for Christians?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-happens-in-biblical-counseling
   - does-biblical-counseling-ignore-the-body

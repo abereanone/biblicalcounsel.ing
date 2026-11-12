@@ -3,7 +3,7 @@ id: 27
 title: What is lament, and how does it help?
 categories:
   - suffering
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-should-a-christian-suffer
   - how-does-scripture-speak-to-trauma

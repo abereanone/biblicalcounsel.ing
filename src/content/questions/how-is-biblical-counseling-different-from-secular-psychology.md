@@ -3,7 +3,7 @@ id: 3
 title: How is biblical counseling different from secular psychology?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - is-scripture-sufficient-for-counseling
   - can-psychology-and-the-bible-be-integrated

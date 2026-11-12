@@ -3,7 +3,7 @@ id: 53
 title: What should I do if I am being abused?
 categories:
   - relationships
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-we-communicate-better
   - what-does-the-bible-say-about-divorce

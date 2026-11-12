@@ -3,7 +3,7 @@ id: 63
 title: Should biblical counseling be free?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-can-the-church-help-veterans-after-they-come-home
   - is-counseling-confidential

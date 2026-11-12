@@ -3,7 +3,7 @@ id: 66
 title: What is ACBC certification?
 categories:
   - church
-authorId: ai
+authorId: mac
 relatedAnswers:
   - how-do-i-find-a-good-biblical-counselor
   - how-can-i-be-trained-to-counsel

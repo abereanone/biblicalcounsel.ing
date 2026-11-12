@@ -3,7 +3,7 @@ id: 7
 title: Who can give biblical counsel?
 categories:
   - foundations
-authorId: ai
+authorId: mac
 relatedAnswers:
   - what-is-the-goal-of-biblical-counseling
   - what-happens-in-biblical-counseling
