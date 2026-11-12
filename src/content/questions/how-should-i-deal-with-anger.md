@@ -1,5 +1,5 @@
 ---
-id: 38
+id: 40
 title: How should I deal with anger?
 categories:
   - struggles

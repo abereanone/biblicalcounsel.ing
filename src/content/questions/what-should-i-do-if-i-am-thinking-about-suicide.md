@@ -1,5 +1,5 @@
 ---
-id: 34
+id: 36
 title: What should I do if I am thinking about ending my life?
 categories:
   - struggles

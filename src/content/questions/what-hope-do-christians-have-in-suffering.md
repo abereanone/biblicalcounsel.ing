@@ -1,5 +1,5 @@
 ---
-id: 33
+id: 35
 title: What hope do Christians have in suffering?
 categories:
   - suffering
@@ -34,3 +34,9 @@ Christian hope is not wishful thinking. It rests on things God has already done 
 - **God will dwell with His people.** "He will wipe away every tear from their eyes" (Revelation 21:4), and "Behold, I make all things new" (Revelation 21:5).
 
 In counseling, hope is not a final paragraph tacked on to practical advice. It is the ground on which everything else stands. People can endure almost anything if they know it will end well, and in Christ it will.
+
+> **From the *Catechism of Suffering*, question 10:** What hope sustains the believer in suffering?
+>
+> "The hope that Christ has overcome the world, and that present sufferings are not worth comparing with the glory to come."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-10)

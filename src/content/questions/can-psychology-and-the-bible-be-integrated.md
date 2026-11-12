@@ -6,11 +6,11 @@ categories:
 authorId: ai
 relatedAnswers:
   - how-is-biblical-counseling-different-from-secular-psychology
-  - what-is-the-goal-of-biblical-counseling
+  - how-can-i-evaluate-a-counseling-method
   - is-scripture-sufficient-for-counseling
-  - who-can-give-biblical-counsel
+  - what-is-the-goal-of-biblical-counseling
   - what-is-biblical-counseling
-  - what-happens-in-biblical-counseling
+  - who-can-give-biblical-counsel
 ---
 
 Christians may learn true facts from careful observation of people, since all truth is God's truth. But psychological theories and therapies are human interpretations, not a second revelation, and they must be judged by Scripture rather than placed beside it as an equal authority.

@@ -1,5 +1,5 @@
 ---
-id: 10
+id: 11
 title: Should Christians take medication for depression or anxiety?
 categories:
   - foundations

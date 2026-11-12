@@ -1,5 +1,5 @@
 ---
-id: 16
+id: 17
 title: "What does it mean to \"put off\" and \"put on\"?"
 categories:
   - heart

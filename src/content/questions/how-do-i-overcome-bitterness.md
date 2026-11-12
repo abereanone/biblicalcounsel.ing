@@ -1,5 +1,5 @@
 ---
-id: 39
+id: 41
 title: How do I overcome bitterness?
 categories:
   - struggles

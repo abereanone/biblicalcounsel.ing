@@ -1,5 +1,5 @@
 ---
-id: 24
+id: 26
 title: How should a Christian respond to suffering?
 categories:
   - suffering
@@ -7,10 +7,10 @@ authorId: ai
 relatedAnswers:
   - why-does-god-allow-his-people-to-suffer
   - what-is-lament
+  - what-is-the-catechism-of-suffering
   - how-does-scripture-speak-to-trauma
   - what-about-fight-flight-or-freeze
   - where-should-i-look-when-i-am-suffering
-  - how-do-i-grieve-as-a-christian
 ---
 
 By entrusting himself to God, as Christ did: bringing his pain honestly to the Father, continuing to do good, refusing bitterness and revenge, and waiting in hope for God's deliverance.
@@ -37,3 +37,9 @@ That pattern has several parts:
 5. **Hope.** "Be joyful in hope, patient in affliction, persistent in prayer" (Romans 12:12).
 
 This is not a technique for feeling better quickly. It is a way of walking with God through the dark.
+
+> **From the *Catechism of Suffering*, question 29:** What example did Christ leave for us in suffering?
+>
+> "He entrusted Himself to the One who judges justly, overcame evil with steadfast obedience, and set the pattern for us to follow in obedience to God, by not returning evil for evil, but doing good."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-29)

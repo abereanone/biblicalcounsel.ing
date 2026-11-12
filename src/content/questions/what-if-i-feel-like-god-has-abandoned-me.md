@@ -1,5 +1,5 @@
 ---
-id: 30
+id: 32
 title: What if I feel like God has abandoned me?
 categories:
   - suffering
@@ -35,3 +35,9 @@ What do we do with it?
 - **Ask for help.** A pastor or friend can hold up truth for you when you cannot hold it yourself.
 
 Seasons of darkness do end. Psalm 22 begins with abandonment and ends with praise.
+
+> **From the *Catechism of Suffering*, question 7:** Does suffering mean God has forsaken us?
+>
+> "No. For those in Christ, suffering is never a sign of abandonment but of Fatherly love and refinement."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-7)

@@ -1,5 +1,5 @@
 ---
-id: 58
+id: 60
 title: What role do pastors play in counseling?
 categories:
   - church
@@ -7,10 +7,10 @@ authorId: ai
 relatedAnswers:
   - why-does-counseling-belong-in-the-local-church
   - how-can-church-members-counsel-one-another
+  - how-can-the-church-help-veterans-after-they-come-home
   - should-biblical-counseling-be-free
   - is-counseling-confidential
   - how-do-i-find-a-good-biblical-counselor
-  - what-is-acbc-certification
 ---
 
 Pastors are shepherds who must watch over the souls of their flock, so personal counsel from the Word is part of their calling. They counsel, train others to counsel, and oversee the care of the whole congregation.

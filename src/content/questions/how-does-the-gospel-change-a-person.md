@@ -1,5 +1,5 @@
 ---
-id: 21
+id: 22
 title: How does the gospel change a person?
 categories:
   - heart

@@ -1,5 +1,5 @@
 ---
-id: 63
+id: 66
 title: What is ACBC certification?
 categories:
   - church
@@ -10,7 +10,7 @@ relatedAnswers:
   - is-counseling-confidential
   - what-is-the-role-of-homework-in-counseling
   - should-biblical-counseling-be-free
-  - how-can-church-members-counsel-one-another
+  - how-can-the-church-help-veterans-after-they-come-home
 ---
 
 The Association of Certified Biblical Counselors certifies counselors who complete theological and counseling training, pass written exams, are evaluated by their church, and counsel under supervision, all on the conviction that Scripture is sufficient for counseling. It is one widely recognized mark of training in biblical counseling.

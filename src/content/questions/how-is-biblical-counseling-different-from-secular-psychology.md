@@ -8,9 +8,9 @@ relatedAnswers:
   - is-scripture-sufficient-for-counseling
   - can-psychology-and-the-bible-be-integrated
   - what-is-biblical-counseling
+  - how-can-i-evaluate-a-counseling-method
   - what-is-the-goal-of-biblical-counseling
   - who-can-give-biblical-counsel
-  - what-happens-in-biblical-counseling
 ---
 
 They begin from different answers to the deepest questions: what a person is, what is wrong with him, what he needs, and how he changes. Secular approaches answer without God; biblical counseling answers from God's Word.

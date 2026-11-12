@@ -1,5 +1,5 @@
 ---
-id: 49
+id: 51
 title: How should a wife respect her husband?
 categories:
   - relationships

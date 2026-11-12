@@ -1,5 +1,5 @@
 ---
-id: 31
+id: 33
 title: How can I help a friend who is suffering?
 categories:
   - suffering
@@ -35,3 +35,9 @@ Some practical help:
 - **Share comfort, gently.** God "comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God" (2 Corinthians 1:4). A short verse, read or written in a card, can carry more than a long speech.
 - **Avoid clichés.** "Everything happens for a reason" or "God needed another angel" can wound. Scripture compares singing songs to a heavy heart with "vinegar poured on a wound" (Proverbs 25:20).
 - **Stay.** Suffering often lasts longer than people's attention. Keep checking in.
+
+> **From the *Catechism of Suffering*, question 49:** How should we speak to one another in times of suffering?
+>
+> "With gentleness and grace-filled truth, speaking words seasoned with wisdom that offer the same comfort we have received from God."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-49)

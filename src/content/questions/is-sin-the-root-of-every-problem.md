@@ -1,5 +1,5 @@
 ---
-id: 19
+id: 20
 title: "Is every problem caused by the person's own sin?"
 categories:
   - heart

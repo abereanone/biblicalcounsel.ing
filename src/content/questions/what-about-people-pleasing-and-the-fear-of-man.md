@@ -1,5 +1,5 @@
 ---
-id: 45
+id: 47
 title: "How do I stop living for other people's approval?"
 categories:
   - struggles

@@ -1,5 +1,5 @@
 ---
-id: 17
+id: 18
 title: How is the mind renewed?
 categories:
   - heart

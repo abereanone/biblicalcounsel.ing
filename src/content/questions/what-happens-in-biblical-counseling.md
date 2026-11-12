@@ -1,5 +1,5 @@
 ---
-id: 7
+id: 8
 title: What happens in biblical counseling?
 categories:
   - foundations
@@ -9,7 +9,7 @@ relatedAnswers:
   - is-biblical-counseling-only-for-christians
   - what-is-the-goal-of-biblical-counseling
   - does-biblical-counseling-ignore-the-body
-  - can-psychology-and-the-bible-be-integrated
+  - how-can-i-evaluate-a-counseling-method
   - should-christians-take-medication-for-depression-or-anxiety
 ---
 

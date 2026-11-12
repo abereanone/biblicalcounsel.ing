@@ -1,5 +1,5 @@
 ---
-id: 48
+id: 50
 title: How should a husband love his wife?
 categories:
   - relationships

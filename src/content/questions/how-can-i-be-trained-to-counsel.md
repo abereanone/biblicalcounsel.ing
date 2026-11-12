@@ -1,5 +1,5 @@
 ---
-id: 64
+id: 67
 title: How can I be trained to counsel others biblically?
 categories:
   - church
@@ -10,7 +10,7 @@ relatedAnswers:
   - how-do-i-find-a-good-biblical-counselor
   - is-counseling-confidential
   - should-biblical-counseling-be-free
-  - how-can-church-members-counsel-one-another
+  - how-can-the-church-help-veterans-after-they-come-home
 ---
 
 Grow in the Word and in godliness first. Then learn from your pastors, read sound books on biblical counseling, take training courses, watch experienced counselors, and practice under supervision. The goal is not technique but wisdom.

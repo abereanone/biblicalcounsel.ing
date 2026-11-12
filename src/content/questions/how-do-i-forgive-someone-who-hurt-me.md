@@ -1,5 +1,5 @@
 ---
-id: 40
+id: 42
 title: How do I forgive someone who hurt me?
 categories:
   - struggles

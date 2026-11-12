@@ -1,5 +1,5 @@
 ---
-id: 11
+id: 12
 title: What is nouthetic counseling?
 categories:
   - foundations

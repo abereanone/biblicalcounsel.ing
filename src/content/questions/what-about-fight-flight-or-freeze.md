@@ -1,5 +1,5 @@
 ---
-id: 27
+id: 29
 title: "Are \"fight, flight or freeze\" responses sinful?"
 categories:
   - suffering
@@ -33,3 +33,9 @@ But the grid cannot explain everything. Matthew Statler has pointed out that the
 - **Jesus was silent and steady.** He was "deeply troubled and distressed" (Mark 14:33), yet He prayed, "not what I will, but what You will" (Mark 14:36), and "entrusted Himself to Him who judges justly" (1 Peter 2:23).
 
 So the body's alarm is not the whole story. In the moment of fear, the heart still trusts something. "When I am afraid, I put my trust in You" (Psalm 56:3). Counseling helps a person learn, slowly and with grace, to bring the alarm to God.
+
+> **From the *Catechism of Suffering*, question 32:** How does suffering reveal our hearts?
+>
+> "Suffering exposes what we love, trust, and treasure, revealing the desires and conflicts within that show where our hope truly lies."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-32)

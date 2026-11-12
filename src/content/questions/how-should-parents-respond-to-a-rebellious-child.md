@@ -1,5 +1,5 @@
 ---
-id: 54
+id: 56
 title: How should parents respond to a rebellious child?
 categories:
   - relationships

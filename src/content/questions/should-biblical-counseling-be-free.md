@@ -1,15 +1,15 @@
 ---
-id: 60
+id: 63
 title: Should biblical counseling be free?
 categories:
   - church
 authorId: ai
 relatedAnswers:
-  - how-can-church-members-counsel-one-another
+  - how-can-the-church-help-veterans-after-they-come-home
   - is-counseling-confidential
-  - what-role-do-pastors-play-in-counseling
+  - how-can-church-members-counsel-one-another
   - how-do-i-find-a-good-biblical-counselor
-  - why-does-counseling-belong-in-the-local-church
+  - what-role-do-pastors-play-in-counseling
   - what-is-acbc-certification
 ---
 

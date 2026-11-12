@@ -1,5 +1,5 @@
 ---
-id: 47
+id: 49
 title: How can a husband and wife resolve conflict?
 categories:
   - relationships

@@ -1,5 +1,5 @@
 ---
-id: 29
+id: 31
 title: How should a Christian grieve?
 categories:
   - suffering
@@ -37,3 +37,9 @@ Christian grief has particular marks:
 - **It looks forward.** "He will wipe away every tear from their eyes, and there will be no more death or mourning or crying or pain" (Revelation 21:4).
 
 When grief does not lift at all, or becomes despair or thoughts of not wanting to live, talk to your pastor and your doctor, and do not wait.
+
+> **From the *Catechism of Suffering*, question 52:** What happens to the believer after death?
+>
+> "The believer's soul departs to be with Christ, which is far better, while the body rests until the resurrection."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-52)

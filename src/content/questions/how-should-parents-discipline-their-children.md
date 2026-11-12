@@ -1,5 +1,5 @@
 ---
-id: 53
+id: 55
 title: How should Christian parents discipline their children?
 categories:
   - relationships

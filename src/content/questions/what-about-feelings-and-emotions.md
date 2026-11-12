@@ -1,5 +1,5 @@
 ---
-id: 20
+id: 21
 title: How should a Christian think about feelings and emotions?
 categories:
   - heart

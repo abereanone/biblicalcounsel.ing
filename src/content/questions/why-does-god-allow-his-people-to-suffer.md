@@ -1,16 +1,16 @@
 ---
-id: 23
+id: 25
 title: Why does God allow His people to suffer?
 categories:
   - suffering
 authorId: ai
 relatedAnswers:
+  - what-is-the-catechism-of-suffering
   - how-should-a-christian-suffer
   - what-is-lament
   - how-does-scripture-speak-to-trauma
   - what-about-fight-flight-or-freeze
   - where-should-i-look-when-i-am-suffering
-  - how-do-i-grieve-as-a-christian
 ---
 
 God does not explain every trial, but He tells us that He rules over all of them, that He works them together for the good of those who love Him, and that He uses them to make us like Christ and prepare us for glory.
@@ -35,3 +35,9 @@ Scripture gives several purposes:
 - **To teach us God's Word.** "It was good for me to be afflicted, that I might learn Your statutes" (Psalm 119:71).
 
 We will not always know why a particular trial has come. We can know who sent it, that He loves us, and that He is not finished.
+
+> **From the *Catechism of Suffering*, question 6:** Why does God allow His people to suffer?
+>
+> "He allows suffering to display His glory, test and deepen our faith, and conform us to the image of His Son."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-6)

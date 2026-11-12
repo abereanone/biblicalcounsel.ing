@@ -8,9 +8,9 @@ relatedAnswers:
   - is-scripture-sufficient-for-counseling
   - how-is-biblical-counseling-different-from-secular-psychology
   - can-psychology-and-the-bible-be-integrated
+  - how-can-i-evaluate-a-counseling-method
   - what-is-the-goal-of-biblical-counseling
   - who-can-give-biblical-counsel
-  - what-happens-in-biblical-counseling
 ---
 
 Biblical counseling is one Christian helping another to understand his life and problems the way God's Word does, and to respond to them in faith and obedience to Christ, by the power of the Holy Spirit.

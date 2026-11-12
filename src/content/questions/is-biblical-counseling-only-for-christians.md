@@ -1,5 +1,5 @@
 ---
-id: 8
+id: 9
 title: Is biblical counseling only for Christians?
 categories:
   - foundations

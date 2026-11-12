@@ -1,5 +1,5 @@
 ---
-id: 61
+id: 64
 title: Is what I say in counseling kept confidential?
 categories:
   - church
@@ -7,9 +7,9 @@ authorId: ai
 relatedAnswers:
   - should-biblical-counseling-be-free
   - how-do-i-find-a-good-biblical-counselor
-  - how-can-church-members-counsel-one-another
+  - how-can-the-church-help-veterans-after-they-come-home
   - what-is-acbc-certification
-  - what-role-do-pastors-play-in-counseling
+  - how-can-church-members-counsel-one-another
   - how-can-i-be-trained-to-counsel
 ---
 

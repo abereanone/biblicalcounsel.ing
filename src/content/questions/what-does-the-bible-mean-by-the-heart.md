@@ -1,5 +1,5 @@
 ---
-id: 12
+id: 13
 title: "What does the Bible mean by \"the heart\"?"
 categories:
   - heart

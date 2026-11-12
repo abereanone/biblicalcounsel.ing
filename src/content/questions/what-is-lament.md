@@ -1,5 +1,5 @@
 ---
-id: 25
+id: 27
 title: What is lament, and how does it help?
 categories:
   - suffering
@@ -9,8 +9,8 @@ relatedAnswers:
   - how-does-scripture-speak-to-trauma
   - why-does-god-allow-his-people-to-suffer
   - what-about-fight-flight-or-freeze
+  - what-is-the-catechism-of-suffering
   - where-should-i-look-when-i-am-suffering
-  - how-do-i-grieve-as-a-christian
 ---
 
 Lament is honest, faithful complaint to God: telling Him your pain, asking Him to act, and choosing to trust Him. The Psalms give us words for it, and they show that grief and faith can live together.
@@ -35,3 +35,9 @@ Psalm 13 is a short example. It moves through four steps:
 Not every lament ends in relief. Psalm 88 ends in darkness: "darkness is my closest companion" (Psalm 88:18). Even so, it is a prayer, addressed to "the God of my salvation." Holding on to God in the dark is itself faith.
 
 In counseling, lament helps sufferers stop pretending, stop hiding from God, and learn that honest grief is not unbelief.
+
+> **From the *Catechism of Suffering*, question 8:** Can a believer question or lament in suffering?
+>
+> "Yes. Honest lament is the language of faith, bringing grief before God in trust, not rebellion."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-8)

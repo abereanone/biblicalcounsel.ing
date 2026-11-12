@@ -1,5 +1,5 @@
 ---
-id: 26
+id: 28
 title: How does Scripture speak to trauma?
 categories:
   - suffering
@@ -34,3 +34,9 @@ Scripture is full of people who lived through horrors: Joseph sold by his brothe
 - **Suffering does not have the last word.** "We are hard pressed on all sides, but not crushed" (2 Corinthians 4:8).
 
 Wise care is patient. It makes sure the person is safe, encourages medical help for sleep and physical symptoms, does not force anyone to retell what happened before they are ready, and slowly helps them interpret their story in the light of God's character and promises. Matthew Statler, a pastor, Army veteran and biblical counselor, has written helpfully on this; see the Resources page.
+
+> **From the *Catechism of Suffering*, question 17:** How does God relate to human pain?
+>
+> "He enters into our pain through the incarnation of His Son, who knows our weakness and carries our sorrows."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-17)

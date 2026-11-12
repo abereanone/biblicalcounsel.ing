@@ -1,5 +1,5 @@
 ---
-id: 36
+id: 38
 title: How do I fight fear?
 categories:
   - struggles

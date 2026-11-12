@@ -1,16 +1,16 @@
 ---
-id: 59
+id: 61
 title: How can ordinary church members counsel one another?
 categories:
   - church
 authorId: ai
 relatedAnswers:
   - what-role-do-pastors-play-in-counseling
-  - should-biblical-counseling-be-free
+  - how-can-the-church-help-veterans-after-they-come-home
   - why-does-counseling-belong-in-the-local-church
+  - should-biblical-counseling-be-free
   - is-counseling-confidential
   - how-do-i-find-a-good-biblical-counselor
-  - what-is-acbc-certification
 ---
 
 By knowing one another, praying for one another, listening carefully, sharing God's Word in everyday conversation, encouraging the fainthearted, gently restoring the straying, and bringing harder situations to the pastors.

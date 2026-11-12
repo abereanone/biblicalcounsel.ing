@@ -23,15 +23,16 @@
     "url": "https://suffering.catechize.ing",
     "title": "Site",
     "bio": "Sixty questions and answers on affliction by Matthew Statler, pastor and ACBC-certified biblical counselor, freely given. A companion to the Suffering and Hope questions here.",
-    "sortOrder": 20
+    "sortOrder": 16
   },
   {
     "id": "statler",
-    "name": "Matthew Statler (Substack)",
+    "name": "Matthew Statler",
     "url": "https://matthewstatler.substack.com",
-    "title": "Website",
-    "bio": "A pastor and biblical counselor writing on how Scripture speaks to trauma, suffering, the soul and true change.",
-    "sortOrder": 30
+    "title": "Writing",
+    "bio": "Pastor and ACBC-certified biblical counselor at Sierra Vista Baptist Church, Army veteran, and author of the Catechism of Suffering. He writes on how Scripture speaks to trauma, suffering, the soul and true change. The Suffering and Hope answers here draw on his work.",
+    "sortOrder": 17,
+    "photo": "/images/resources/mstatler.jpg"
   },
   {
     "id": "acbc",

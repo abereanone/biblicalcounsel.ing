@@ -1,5 +1,5 @@
 ---
-id: 28
+id: 30
 title: Where should I look when I am suffering?
 categories:
   - suffering
@@ -35,3 +35,9 @@ Practically, this means:
 - **Do not make your sensations the main object of attention.** Notice them, care for your body, and then turn your mind to what God says.
 
 Matthew Statler has written on this passage as a guide for sufferers and their counselors.
+
+> **From the *Catechism of Suffering*, question 54:** How does this future hope shape our present suffering?
+>
+> "It teaches us that present afflictions are light and momentary, preparing us for an eternal weight of glory."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-54)

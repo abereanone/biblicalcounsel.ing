@@ -8,9 +8,9 @@ relatedAnswers:
   - what-is-biblical-counseling
   - how-is-biblical-counseling-different-from-secular-psychology
   - can-psychology-and-the-bible-be-integrated
+  - how-can-i-evaluate-a-counseling-method
   - what-is-the-goal-of-biblical-counseling
   - who-can-give-biblical-counsel
-  - what-happens-in-biblical-counseling
 ---
 
 Yes. God has given us in His Word everything we need to understand the soul, its problems and its cure, and to live a life that pleases Him. Scripture does not tell us everything about everything, but it tells us everything we need for life and godliness.

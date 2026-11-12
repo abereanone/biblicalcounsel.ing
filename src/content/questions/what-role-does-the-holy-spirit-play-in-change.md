@@ -1,5 +1,5 @@
 ---
-id: 18
+id: 19
 title: What role does the Holy Spirit play in change?
 categories:
   - heart

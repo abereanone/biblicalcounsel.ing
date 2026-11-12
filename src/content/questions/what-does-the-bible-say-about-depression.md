@@ -1,5 +1,5 @@
 ---
-id: 37
+id: 39
 title: What does the Bible say about depression?
 categories:
   - struggles

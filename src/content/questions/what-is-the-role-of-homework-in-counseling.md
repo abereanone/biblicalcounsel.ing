@@ -1,5 +1,5 @@
 ---
-id: 65
+id: 68
 title: Why do biblical counselors give homework?
 categories:
   - church
@@ -10,7 +10,7 @@ relatedAnswers:
   - how-do-i-find-a-good-biblical-counselor
   - is-counseling-confidential
   - should-biblical-counseling-be-free
-  - how-can-church-members-counsel-one-another
+  - how-can-the-church-help-veterans-after-they-come-home
 ---
 
 Because change happens in daily life, not only in the counseling room. Homework helps the counselee apply God's Word between meetings: reading and meditating on Scripture, praying, practicing new habits and taking concrete steps of obedience.

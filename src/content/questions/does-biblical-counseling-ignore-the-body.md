@@ -1,5 +1,5 @@
 ---
-id: 9
+id: 10
 title: Does biblical counseling ignore the body?
 categories:
   - foundations

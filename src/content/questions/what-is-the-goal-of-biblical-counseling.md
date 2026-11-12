@@ -1,15 +1,15 @@
 ---
-id: 5
+id: 6
 title: What is the goal of biblical counseling?
 categories:
   - foundations
 authorId: ai
 relatedAnswers:
-  - can-psychology-and-the-bible-be-integrated
+  - how-can-i-evaluate-a-counseling-method
   - who-can-give-biblical-counsel
-  - how-is-biblical-counseling-different-from-secular-psychology
+  - can-psychology-and-the-bible-be-integrated
   - what-happens-in-biblical-counseling
-  - is-scripture-sufficient-for-counseling
+  - how-is-biblical-counseling-different-from-secular-psychology
   - is-biblical-counseling-only-for-christians
 ---
 

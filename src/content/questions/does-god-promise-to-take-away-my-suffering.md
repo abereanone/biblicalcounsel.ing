@@ -1,5 +1,5 @@
 ---
-id: 32
+id: 34
 title: Does God promise to take away my suffering?
 categories:
   - suffering
@@ -35,3 +35,9 @@ What God does promise:
 - **An end.** "He will wipe away every tear from their eyes, and there will be no more death or mourning or crying or pain" (Revelation 21:4).
 
 It is right to pray for healing and relief, and God often gives it. Teachers who promise that faith always brings health and wealth are not speaking for God, and their promises leave sufferers feeling that the fault is theirs.
+
+> **From the *Catechism of Suffering*, question 51:** Will suffering last forever?
+>
+> "No. For those in Christ, every sorrow will end when death is destroyed and all things are made new."
+>
+> Matthew Statler, [suffering.catechize.ing](https://suffering.catechize.ing/questions/cos-51)

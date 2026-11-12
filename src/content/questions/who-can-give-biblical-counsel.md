@@ -1,5 +1,5 @@
 ---
-id: 6
+id: 7
 title: Who can give biblical counsel?
 categories:
   - foundations
@@ -7,9 +7,9 @@ authorId: ai
 relatedAnswers:
   - what-is-the-goal-of-biblical-counseling
   - what-happens-in-biblical-counseling
-  - can-psychology-and-the-bible-be-integrated
+  - how-can-i-evaluate-a-counseling-method
   - is-biblical-counseling-only-for-christians
-  - how-is-biblical-counseling-different-from-secular-psychology
+  - can-psychology-and-the-bible-be-integrated
   - does-biblical-counseling-ignore-the-body
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: 57
+id: 59
 title: Why does counseling belong in the local church?
 categories:
   - church
@@ -7,10 +7,10 @@ authorId: ai
 relatedAnswers:
   - what-role-do-pastors-play-in-counseling
   - how-can-church-members-counsel-one-another
+  - how-can-the-church-help-veterans-after-they-come-home
   - should-biblical-counseling-be-free
   - is-counseling-confidential
   - how-do-i-find-a-good-biblical-counselor
-  - what-is-acbc-certification
 ---
 
 Because the church is where Christ has placed His people to grow: under shepherds who watch over their souls, among believers who know them, with the Word preached, the ordinances given and the body caring for its members. Counseling cut off from the church loses much of what makes it work.
