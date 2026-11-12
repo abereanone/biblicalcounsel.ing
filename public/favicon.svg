@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="biblicalcounsel.ing">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2c6a44" />
+      <stop offset="100%" stop-color="#0b1c12" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#ground)" />
+  <path d="M250,214 C208,186 154,178 96,186 V398 C154,390 208,398 250,426 Z" fill="#eef8ef" />
+  <path d="M262,214 C304,186 358,178 416,186 V398 C358,390 304,398 262,426 Z" fill="#eef8ef" />
+  <path d="M132,236 C168,232 198,238 222,250 M132,278 C168,274 198,280 222,292 M132,320 C168,316 198,322 222,334" fill="none" stroke="#0b1c12" stroke-opacity="0.28" stroke-width="9" stroke-linecap="round" />
+  <path d="M290,250 C314,238 344,232 380,236 M290,292 C314,280 344,274 380,278 M290,334 C314,322 344,316 380,320" fill="none" stroke="#0b1c12" stroke-opacity="0.28" stroke-width="9" stroke-linecap="round" />
+  <path d="M256,206 V112" fill="none" stroke="#d6b45a" stroke-width="12" stroke-linecap="round" />
+  <path d="M256,158 C222,158 198,134 194,100 C228,100 252,124 256,158 Z" fill="#66b97f" />
+  <path d="M256,134 C288,132 310,108 314,74 C282,76 258,100 256,134 Z" fill="#66b97f" />
+</svg>

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ai",
+    "name": "AI draft",
+    "url": "https://michaelcoughlin.net",
+    "title": "AI",
+    "bio": "Answers drafted with Claude (Anthropic) for Michael Coughlin to review. They aim to agree with the 1689 Baptist Confession of Faith, and every answer rests on the Scripture cited under it.",
+    "sortOrder": 10
+  },
+  {
+    "id": "mac",
+    "photo": "/images/resources/mac.jpg",
+    "name": "Michael Coughlin",
+    "url": "https://thingsabove.us/author/mac/",
+    "title": "Curator",
+    "bio": "Preacher from Ohio who loves Jesus, my wife, my kids, and my neighbors: including the preborn/voiceless.",
+    "sortOrder": 15
+  },
+  {
+    "id": "suffering",
+    "logo": "/images/resources/suffering.png",
+    "name": "Catechism of Suffering",
+    "url": "https://suffering.catechize.ing",
+    "title": "Site",
+    "bio": "Sixty questions and answers on affliction by Matthew Statler, pastor and ACBC-certified biblical counselor, freely given. A companion to the Suffering and Hope questions here.",
+    "sortOrder": 20
+  },
+  {
+    "id": "statler",
+    "name": "Matthew Statler (Substack)",
+    "url": "https://matthewstatler.substack.com",
+    "title": "Website",
+    "bio": "A pastor and biblical counselor writing on how Scripture speaks to trauma, suffering, the soul and true change.",
+    "sortOrder": 30
+  },
+  {
+    "id": "acbc",
+    "name": "Association of Certified Biblical Counselors",
+    "url": "https://biblicalcounseling.com",
+    "title": "Website",
+    "bio": "Training, certification and a large resource library for counseling from the sufficient Word of God. This site is independent of ACBC.",
+    "sortOrder": 40
+  },
+  {
+    "id": "dorean",
+    "logo": "/images/resources/dorean.png",
+    "name": "dorean.ing",
+    "url": "https://dorean.ing",
+    "title": "Site",
+    "bio": "Our sister site: questions and answers on why ministry, counseling included, should be supported, not sold.",
+    "sortOrder": 50
+  },
+  {
+    "id": "rcs",
+    "logo": "/images/resources/rcs.png",
+    "name": "Reformed Catechisms",
+    "url": "https://catechize.ing",
+    "title": "Site",
+    "bio": "Our sister site, displaying reformed catechism question and answers.",
+    "sortOrder": 60
+  },
+  {
+    "id": "rconfess",
+    "logo": "/images/resources/rconfess.png",
+    "name": "Reformed Confessions",
+    "url": "https://confess.catechize.ing/",
+    "title": "Website",
+    "bio": "Easily read, study and compare reformed confessions, reverse lookup scripture, and read the Bible online for FREE.",
+    "sortOrder": 70
+  },
+  {
+    "id": "mac-links",
+    "photo": "/images/resources/mac.jpg",
+    "name": "Sites managed by the curator of biblicalcounsel.ing",
+    "url": "https://michaelcoughlin.net/links",
+    "title": "Link Directory",
+    "bio": "A directory of the other websites Michael Coughlin builds and maintains.",
+    "sortOrder": 80
+  }
+]

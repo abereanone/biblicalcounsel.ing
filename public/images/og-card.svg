@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="88" y1="56" x2="1128" y2="586" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2c6a44" />
+      <stop offset="100%" stop-color="#0b1c12" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <path d="M92 92H1108" stroke="#d6b45a" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round" />
+  <path d="M92 572H1108" stroke="#d6b45a" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round" />
+  <g transform="translate(600 168) scale(0.34) translate(-256 -256)">
+  <path d="M250,214 C208,186 154,178 96,186 V398 C154,390 208,398 250,426 Z" fill="#eef8ef" />
+  <path d="M262,214 C304,186 358,178 416,186 V398 C358,390 304,398 262,426 Z" fill="#eef8ef" />
+  <path d="M132,236 C168,232 198,238 222,250 M132,278 C168,274 198,280 222,292 M132,320 C168,316 198,322 222,334" fill="none" stroke="#0b1c12" stroke-opacity="0.28" stroke-width="9" stroke-linecap="round" />
+  <path d="M290,250 C314,238 344,232 380,236 M290,292 C314,280 344,274 380,278 M290,334 C314,322 344,316 380,320" fill="none" stroke="#0b1c12" stroke-opacity="0.28" stroke-width="9" stroke-linecap="round" />
+  <path d="M256,206 V112" fill="none" stroke="#d6b45a" stroke-width="12" stroke-linecap="round" />
+  <path d="M256,158 C222,158 198,134 194,100 C228,100 252,124 256,158 Z" fill="#66b97f" />
+  <path d="M256,134 C288,132 310,108 314,74 C282,76 258,100 256,134 Z" fill="#66b97f" />
+  </g>
+  <text x="600" y="330" text-anchor="middle" fill="#a9dcb4" font-family="Georgia, serif" font-size="34" font-weight="700" letter-spacing="10">BIBLICAL</text>
+  <text x="600" y="430" text-anchor="middle" fill="#eef8ef" font-family="Georgia, serif">
+    <tspan font-size="120" font-weight="700">Counsel</tspan><tspan font-size="78" font-style="italic">.ing</tspan>
+  </text>
+  <text x="600" y="496" text-anchor="middle" fill="#eef8ef" fill-opacity="0.9" font-family="Georgia, serif" font-size="36" font-style="italic">The sufficient Word for the struggling soul.</text>
+  <text x="600" y="548" text-anchor="middle" fill="#a9dcb4" fill-opacity="0.85" font-family="Georgia, serif" font-size="21" letter-spacing="3">ISAIAH 9:6 &#8226; WONDERFUL COUNSELOR</text>
+</svg>

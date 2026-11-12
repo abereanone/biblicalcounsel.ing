@@ -1,0 +1,38 @@
+[
+  {
+    "id": "foundations",
+    "name": "Foundations",
+    "sortOrder": 10,
+    "groupCode": "found"
+  },
+  {
+    "id": "heart",
+    "name": "The Heart and Change",
+    "sortOrder": 20,
+    "groupCode": "heart"
+  },
+  {
+    "id": "suffering",
+    "name": "Suffering and Hope",
+    "sortOrder": 30,
+    "groupCode": "hope"
+  },
+  {
+    "id": "struggles",
+    "name": "Common Struggles",
+    "sortOrder": 40,
+    "groupCode": "strug"
+  },
+  {
+    "id": "relationships",
+    "name": "Marriage and Family",
+    "sortOrder": 50,
+    "groupCode": "home"
+  },
+  {
+    "id": "church",
+    "name": "Counseling in the Church",
+    "sortOrder": 60,
+    "groupCode": "church"
+  }
+]
