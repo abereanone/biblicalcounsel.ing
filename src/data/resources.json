@@ -70,5 +70,14 @@
     "title": "Link Directory",
     "bio": "A directory of the other websites Michael Coughlin builds and maintains.",
     "sortOrder": 80
+  },
+  {
+    "id": "cwp",
+    "logo": "/images/resources/cwp.png",
+    "name": "Common Weal Press",
+    "url": "https://commonwealpress.org/",
+    "title": "Website",
+    "bio": "Classic Christian books, carefully edited for today's readers. Free to read and download!",
+    "sortOrder": 26
   }
 ]
