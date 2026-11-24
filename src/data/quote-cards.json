@@ -307,325 +307,6 @@
  ],
  "cards": [
   {
-   "id": 59,
-   "slug": "why-does-counseling-belong-in-the-local-church",
-   "question": "Why does counseling belong in the local church?",
-   "answer": "Because the church is where Christ has placed His people to grow: under shepherds who watch over their souls, among believers who know them, with the Word preached, the ordinances given and the body caring for its members. Counseling cut off from the church loses much of what makes it work.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "Ephesians 4:11-16",
-    "Romans 15:14",
-    "Hebrews 10:24-25",
-    "Acts 20:28",
-    "1 Corinthians 12:26",
-    "Hebrews 13:17",
-    "Matthew 18:15-17",
-    "1 Corinthians 12:26"
-   ],
-   "words": [
-    "christ",
-    "word",
-    "counseling",
-    "church",
-    "believer"
-   ],
-   "books": [
-    "Ephesians",
-    "Romans",
-    "Hebrews",
-    "Acts",
-    "1 Corinthians",
-    "Matthew"
-   ]
-  },
-  {
-   "id": 60,
-   "slug": "what-role-do-pastors-play-in-counseling",
-   "question": "What role do pastors play in counseling?",
-   "answer": "Pastors are shepherds who must watch over the souls of their flock, so personal counsel from the Word is part of their calling. They counsel, train others to counsel, and oversee the care of the whole congregation.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "Acts 20:28",
-    "1 Peter 5:2-3",
-    "Hebrews 13:17",
-    "Colossians 1:28-29",
-    "Acts 20:20",
-    "Ephesians 4:12",
-    "1 Peter 5:2-3"
-   ],
-   "words": [
-    "word",
-    "counseling",
-    "counsel",
-    "pastor",
-    "others"
-   ],
-   "books": [
-    "Acts",
-    "1 Peter",
-    "Hebrews",
-    "Colossians",
-    "Ephesians"
-   ]
-  },
-  {
-   "id": 61,
-   "slug": "how-can-church-members-counsel-one-another",
-   "question": "How can ordinary church members counsel one another?",
-   "answer": "By knowing one another, praying for one another, listening carefully, sharing God’s Word in everyday conversation, encouraging the fainthearted, gently restoring the straying, and bringing harder situations to the pastors.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "Romans 15:14",
-    "Colossians 3:16",
-    "Galatians 6:1-2",
-    "1 Thessalonians 5:14",
-    "Hebrews 3:13",
-    "James 1:19",
-    "1 Thessalonians 5:14",
-    "Galatians 6:1"
-   ],
-   "words": [
-    "word",
-    "church",
-    "counsel",
-    "pastor"
-   ],
-   "books": [
-    "Romans",
-    "Colossians",
-    "Galatians",
-    "1 Thessalonians",
-    "Hebrews",
-    "James"
-   ]
-  },
-  {
-   "id": 62,
-   "slug": "how-can-the-church-help-veterans-after-they-come-home",
-   "question": "How can the church help veterans after they come home?",
-   "answer": "By welcoming them, investing in them, and giving them a place to serve. Many veterans struggle when the mission ends; the church can help them find their hope in Christ rather than in country or service, resist bitterness and isolation, and take up a new mission in family, church and community.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "Psalm 146:3",
-    "Hebrews 12:15",
-    "Ecclesiastes 4:9-10",
-    "1 Samuel 22:1-2",
-    "2 Timothy 2:3",
-    "Ecclesiastes 4:9-10",
-    "Psalm 146:3",
-    "Hebrews 12:15",
-    "1 Samuel 22:1-2",
-    "2 Timothy 2:3"
-   ],
-   "words": [
-    "christ",
-    "church",
-    "hope"
-   ],
-   "books": [
-    "Psalm",
-    "Hebrews",
-    "Ecclesiastes",
-    "1 Samuel",
-    "2 Timothy"
-   ]
-  },
-  {
-   "id": 63,
-   "slug": "should-biblical-counseling-be-free",
-   "question": "Should biblical counseling be free?",
-   "answer": "Yes. Counseling from God’s Word is ministry of the Word, and Christ commands that His ministry be given freely. Churches and believers should support counselors, so that no one is charged for counsel or turned away because they cannot pay.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "Matthew 10:8",
-    "1 Corinthians 9:18",
-    "Galatians 6:6",
-    "2 Corinthians 2:17",
-    "Proverbs 3:27"
-   ],
-   "words": [
-    "christ",
-    "word",
-    "counseling",
-    "biblical",
-    "church",
-    "counselor",
-    "counsel",
-    "believer",
-    "free"
-   ],
-   "books": [
-    "Matthew",
-    "1 Corinthians",
-    "Galatians",
-    "2 Corinthians",
-    "Proverbs"
-   ]
-  },
-  {
-   "id": 64,
-   "slug": "is-counseling-confidential",
-   "question": "Is what I say in counseling kept confidential?",
-   "answer": "A faithful counselor keeps confidences and does not gossip. But confidentiality has biblical limits: a counselor cannot keep secret a danger to life, the abuse of a child or vulnerable person, a crime that must be reported, or unrepentant sin that requires the church’s care. A good counselor explains these limits at the start.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "Proverbs 11:13",
-    "Proverbs 20:19",
-    "Romans 13:3-4",
-    "Matthew 18:15-17",
-    "Galatians 6:1",
-    "Romans 13:4",
-    "Matthew 18:15-17"
-   ],
-   "words": [
-    "counseling",
-    "biblical",
-    "church",
-    "counselor",
-    "child",
-    "faithful"
-   ],
-   "books": [
-    "Proverbs",
-    "Romans",
-    "Matthew",
-    "Galatians"
-   ]
-  },
-  {
-   "id": 65,
-   "slug": "how-do-i-find-a-good-biblical-counselor",
-   "question": "How do I find a good biblical counselor?",
-   "answer": "Start with your own pastor. If you need more help, look for a counselor who is committed to the sufficiency of Scripture, accountable to a local church, sound in doctrine, wise and humble, and, ideally, who counsels freely.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "Proverbs 12:15",
-    "Proverbs 15:22",
-    "1 Timothy 4:16",
-    "Titus 1:9",
-    "1 John 4:1"
-   ],
-   "words": [
-    "scripture",
-    "biblical",
-    "church",
-    "counselor",
-    "counsel",
-    "pastor"
-   ],
-   "books": [
-    "Proverbs",
-    "1 Timothy",
-    "Titus",
-    "1 John"
-   ]
-  },
-  {
-   "id": 66,
-   "slug": "what-is-acbc-certification",
-   "question": "What is ACBC certification?",
-   "answer": "The Association of Certified Biblical Counselors certifies counselors who complete theological and counseling training, pass written exams, are evaluated by their church, and counsel under supervision, all on the conviction that Scripture is sufficient for counseling. It is one widely recognized mark of training in biblical counseling.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "2 Timothy 2:2",
-    "2 Timothy 2:15",
-    "1 Timothy 4:16",
-    "Proverbs 27:17",
-    "2 Timothy 2:15",
-    "Proverbs 27:17"
-   ],
-   "words": [
-    "scripture",
-    "counseling",
-    "biblical",
-    "church",
-    "counselor",
-    "counsel"
-   ],
-   "books": [
-    "2 Timothy",
-    "1 Timothy",
-    "Proverbs"
-   ]
-  },
-  {
-   "id": 67,
-   "slug": "how-can-i-be-trained-to-counsel",
-   "question": "How can I be trained to counsel others biblically?",
-   "answer": "Grow in the Word and in godliness first. Then learn from your pastors, read sound books on biblical counseling, take training courses, watch experienced counselors, and practice under supervision. The goal is not technique but wisdom.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "2 Timothy 2:2",
-    "2 Timothy 3:16-17",
-    "Romans 15:14",
-    "Galatians 6:1",
-    "James 3:1"
-   ],
-   "words": [
-    "word",
-    "counseling",
-    "biblical",
-    "counselor",
-    "counsel",
-    "pastor",
-    "others"
-   ],
-   "books": [
-    "2 Timothy",
-    "Romans",
-    "Galatians",
-    "James"
-   ]
-  },
-  {
-   "id": 68,
-   "slug": "what-is-the-role-of-homework-in-counseling",
-   "question": "Why do biblical counselors give homework?",
-   "answer": "Because change happens in daily life, not only in the counseling room. Homework helps the counselee apply God’s Word between meetings: reading and meditating on Scripture, praying, practicing new habits and taking concrete steps of obedience.",
-   "topics": [
-    "church"
-   ],
-   "scripture": [
-    "James 1:22-25",
-    "Philippians 4:9",
-    "1 Timothy 4:7",
-    "Hebrews 5:14"
-   ],
-   "words": [
-    "scripture",
-    "word",
-    "counseling",
-    "biblical",
-    "change",
-    "counselor",
-    "obedience"
-   ],
-   "books": [
-    "James",
-    "Philippians",
-    "1 Timothy",
-    "Hebrews"
-   ]
-  },
-  {
    "id": 1,
    "slug": "what-is-biblical-counseling",
    "question": "What is biblical counseling?",
@@ -1000,7 +681,7 @@
   {
    "id": 13,
    "slug": "what-does-the-bible-mean-by-the-heart",
-   "question": "What does the Bible mean by \"the heart\"?",
+   "question": "What does the Bible mean by “the heart”?",
    "answer": "In Scripture the heart is the inner person: the center of what we think, desire, love, trust and choose. Our words and actions flow out of it, so real change must reach the heart.",
    "topics": [
     "heart"
@@ -1123,7 +804,7 @@
   {
    "id": 17,
    "slug": "what-does-put-off-and-put-on-mean",
-   "question": "What does it mean to \"put off\" and \"put on\"?",
+   "question": "What does it mean to “put off” and “put on”?",
    "answer": "It is Scripture’s pattern for change: put off a specific sinful habit, be renewed in your thinking, and put on the specific godly habit that replaces it. Stopping a sin is never enough; something righteous must take its place.",
    "topics": [
     "heart"
@@ -1331,327 +1012,375 @@
    ]
   },
   {
-   "id": 48,
-   "slug": "what-is-gods-design-for-marriage",
-   "question": "What is God’s design for marriage?",
-   "answer": "Marriage is a lifelong covenant union between one man and one woman, made by God, in which they become one flesh. It pictures Christ and the church, and it is the place God designed for companionship, sexual intimacy and the raising of children.",
+   "id": 24,
+   "slug": "what-is-the-catechism-of-suffering",
+   "question": "What is the Catechism of Suffering, and how can it help?",
+   "answer": "It is a booklet of sixty short questions and answers on affliction by Matthew Statler, a pastor and biblical counselor, freely given and online at suffering.catechize.ing. Memorized and prayed over, its answers help sufferers speak truth to their own hearts when pain makes it hard to think.",
    "topics": [
-    "relationships"
+    "suffering"
    ],
    "scripture": [
-    "Genesis 2:18-24",
-    "Matthew 19:4-6",
-    "Ephesians 5:31-32",
-    "Hebrews 13:4",
-    "Matthew 19:4",
-    "Hebrews 13:4",
-    "Ephesians 5:32"
+    "Psalm 119:50",
+    "Psalm 42:5",
+    "Deuteronomy 6:6-7",
+    "Colossians 3:16",
+    "Psalm 119:50",
+    "Deuteronomy 6:6-7"
    ],
    "words": [
-    "christ",
-    "church",
-    "child"
-   ],
-   "books": [
-    "Genesis",
-    "Matthew",
-    "Ephesians",
-    "Hebrews"
-   ]
-  },
-  {
-   "id": 49,
-   "slug": "how-can-we-resolve-conflict-in-marriage",
-   "question": "How can a husband and wife resolve conflict?",
-   "answer": "Begin with your own heart: what you wanted that you did not get. Take the log out of your own eye first, confess your part specifically, listen to understand, speak the truth in love, and forgive as Christ forgave you.",
-   "topics": [
-    "relationships"
-   ],
-   "scripture": [
-    "James 4:1-2",
-    "Matthew 7:3-5",
-    "Ephesians 4:25-32",
-    "Colossians 3:12-14",
-    "Proverbs 15:1"
-   ],
-   "words": [
-    "christ",
+    "biblical",
     "heart",
-    "love",
-    "forgive"
+    "counselor",
+    "pastor",
+    "suffering",
+    "answers",
+    "pain",
+    "think"
    ],
    "books": [
-    "James",
-    "Matthew",
-    "Ephesians",
-    "Colossians",
-    "Proverbs"
+    "Psalm",
+    "Deuteronomy",
+    "Colossians"
    ]
   },
   {
-   "id": 50,
-   "slug": "how-should-a-husband-love-his-wife",
-   "question": "How should a husband love his wife?",
-   "answer": "As Christ loved the church: sacrificially, patiently and tenderly, putting her good before his comfort, leading by serving, and never being harsh with her.",
+   "id": 25,
+   "slug": "why-does-god-allow-his-people-to-suffer",
+   "question": "Why does God allow His people to suffer?",
+   "answer": "God does not explain every trial, but He tells us that He rules over all of them, that He works them together for the good of those who love Him, and that He uses them to make us like Christ and prepare us for glory.",
    "topics": [
-    "relationships"
+    "suffering"
    ],
    "scripture": [
-    "Ephesians 5:25-29",
-    "Colossians 3:19",
-    "1 Peter 3:7",
-    "1 Corinthians 13:4-7",
-    "Ephesians 5:28-29",
-    "1 Peter 3:7",
-    "Colossians 3:19"
+    "Romans 8:28-29",
+    "Genesis 50:20",
+    "Hebrews 12:10-11",
+    "2 Corinthians 4:17",
+    "Psalm 119:71",
+    "Romans 8:28",
+    "Romans 8:29",
+    "Hebrews 12:10-11",
+    "Genesis 50:20",
+    "2 Corinthians 4:17",
+    "Psalm 119:71"
    ],
    "words": [
     "christ",
-    "church",
     "love"
    ],
    "books": [
-    "Ephesians",
-    "Colossians",
-    "1 Peter",
-    "1 Corinthians"
+    "Romans",
+    "Genesis",
+    "Hebrews",
+    "2 Corinthians",
+    "Psalm"
    ]
   },
   {
-   "id": 51,
-   "slug": "how-should-a-wife-respect-her-husband",
-   "question": "How should a wife respect her husband?",
-   "answer": "By honoring him, supporting his leadership in the home as to the Lord, and speaking of him and to him with respect. Biblical submission is a free, trusting choice made out of reverence for Christ; it never requires her to sin or to submit to abuse.",
+   "id": 26,
+   "slug": "how-should-a-christian-suffer",
+   "question": "How should a Christian respond to suffering?",
+   "answer": "By entrusting himself to God, as Christ did: bringing his pain honestly to the Father, continuing to do good, refusing bitterness and revenge, and waiting in hope for God’s deliverance.",
    "topics": [
-    "relationships"
+    "suffering"
    ],
    "scripture": [
-    "Ephesians 5:22-24",
-    "Ephesians 5:33",
-    "1 Peter 3:1-6",
-    "Titus 2:4-5",
-    "Acts 5:29",
-    "1 Peter 3:1",
-    "1 Peter 3:7",
-    "Acts 5:29"
+    "1 Peter 4:19",
+    "1 Peter 2:21-23",
+    "Psalm 62:8",
+    "Romans 12:12",
+    "James 1:2-4"
    ],
    "words": [
     "christ",
-    "biblical",
-    "free"
+    "christian",
+    "hope",
+    "suffering",
+    "pain",
+    "respond"
    ],
    "books": [
-    "Ephesians",
     "1 Peter",
-    "Titus",
-    "Acts"
+    "Psalm",
+    "Romans",
+    "James"
    ]
   },
   {
-   "id": 52,
-   "slug": "how-can-we-communicate-better",
-   "question": "How can we communicate better?",
-   "answer": "Speak the truth, speak it in love, speak only what builds up, listen before answering, and choose gentle words. Good communication begins with a heart that wants the other person’s good more than its own way.",
+   "id": 27,
+   "slug": "what-is-lament",
+   "question": "What is lament, and how does it help?",
+   "answer": "Lament is honest, faithful complaint to God: telling Him your pain, asking Him to act, and choosing to trust Him. The Psalms give us words for it, and they show that grief and faith can live together.",
    "topics": [
-    "relationships"
+    "suffering"
    ],
    "scripture": [
-    "Ephesians 4:15",
-    "Ephesians 4:25",
-    "Ephesians 4:29",
-    "James 1:19",
-    "Proverbs 18:13",
-    "James 1:19",
-    "Proverbs 18:13"
+    "Psalm 13",
+    "Psalm 88",
+    "Lamentations 3:19-24",
+    "Psalm 62:8"
    ],
    "words": [
     "word",
-    "heart",
-    "love"
+    "faithful",
+    "pain"
    ],
    "books": [
-    "Ephesians",
-    "James",
-    "Proverbs"
-   ]
-  },
-  {
-   "id": 53,
-   "slug": "what-should-i-do-if-i-am-being-abused",
-   "question": "What should I do if I am being abused?",
-   "answer": "Get safe. If you are in danger, call 911. Abuse is a serious sin and often a crime, and God does not require you to stay in harm’s way. Tell your pastor or another trusted person, and let the civil authorities do their God-given work of protecting you.",
-   "topics": [
-    "relationships"
-   ],
-   "scripture": [
-    "Proverbs 27:12",
-    "Romans 13:3-4",
-    "Psalm 11:5",
-    "Acts 5:29",
-    "Psalm 9:9",
-    "Proverbs 27:12",
-    "Acts 9:25",
-    "Romans 13:4",
-    "Acts 5:29"
-   ],
-   "words": [
-    "pastor"
-   ],
-   "books": [
-    "Proverbs",
-    "Romans",
     "Psalm",
-    "Acts"
+    "Lamentations"
    ]
   },
   {
-   "id": 54,
-   "slug": "what-does-the-bible-say-about-divorce",
-   "question": "What does the Bible say about divorce?",
-   "answer": "God hates divorce and calls married couples to keep their vows. Scripture permits divorce in two situations: sexual immorality, and the desertion of a believer by an unbelieving spouse. Even then, reconciliation is the first hope, and every case should be walked through with the elders of your church.",
+   "id": 28,
+   "slug": "how-does-scripture-speak-to-trauma",
+   "question": "How does Scripture speak to trauma?",
+   "answer": "Scripture takes terrible suffering seriously and does not ask victims to minimize it. It shows a God who sees, a Savior who suffered, and a hope that is stronger than the memory of what happened, and it calls the church to walk patiently with those who carry such wounds.",
    "topics": [
-    "relationships"
+    "suffering"
    ],
    "scripture": [
-    "Malachi 2:16",
-    "Matthew 19:3-9",
-    "1 Corinthians 7:10-15",
-    "Ephesians 4:32",
-    "1 Corinthians 7:10-11"
+    "Psalm 34:18",
+    "Hebrews 4:15",
+    "Isaiah 53:3",
+    "2 Corinthians 4:8-10",
+    "Psalm 56:8",
+    "Psalm 56:8",
+    "Psalm 34:18",
+    "Isaiah 53:3",
+    "Hebrews 4:15",
+    "2 Corinthians 4:8"
    ],
    "words": [
     "scripture",
     "church",
     "hope",
-    "believer",
-    "bible"
+    "suffering"
    ],
    "books": [
-    "Malachi",
-    "Matthew",
-    "1 Corinthians",
-    "Ephesians"
+    "Psalm",
+    "Hebrews",
+    "Isaiah",
+    "2 Corinthians"
    ]
   },
   {
-   "id": 55,
-   "slug": "how-should-parents-discipline-their-children",
-   "question": "How should Christian parents discipline their children?",
-   "answer": "Discipline is training a child’s heart toward God through instruction, correction and example. It should be consistent, calm and loving, aimed at the child’s heart and not merely his behavior, and never done in anger.",
+   "id": 29,
+   "slug": "what-about-fight-flight-or-freeze",
+   "question": "Are “fight, flight or freeze” responses sinful?",
+   "answer": "The body’s alarm reactions to danger are part of how God made us, and they are not sinful in themselves. But what we do next comes from the heart, and Scripture shows that in the same moment of terror one person can lash out, another can run, and Christ can entrust Himself to the Father.",
    "topics": [
-    "relationships"
+    "suffering"
    ],
    "scripture": [
-    "Ephesians 6:4",
-    "Deuteronomy 6:6-7",
-    "Hebrews 12:10-11",
-    "Colossians 3:21",
-    "Proverbs 22:6",
-    "Deuteronomy 6:7",
-    "Hebrews 12:10",
-    "Colossians 3:21"
+    "Mark 14:33-36",
+    "John 18:10-11",
+    "Mark 14:50",
+    "1 Peter 2:23",
+    "Psalm 56:3-4",
+    "John 18:10",
+    "Mark 14:50",
+    "Mark 14:33",
+    "Mark 14:36",
+    "1 Peter 2:23"
    ],
    "words": [
-    "heart",
-    "christian",
-    "child"
+    "christ",
+    "scripture",
+    "heart"
    ],
    "books": [
-    "Ephesians",
-    "Deuteronomy",
+    "Mark",
+    "John",
+    "1 Peter",
+    "Psalm"
+   ]
+  },
+  {
+   "id": 30,
+   "slug": "where-should-i-look-when-i-am-suffering",
+   "question": "Where should I look when I am suffering?",
+   "answer": "To what is unseen and eternal: to God’s character, to Christ who suffered and now reigns, and to the glory He is preparing. Paul did not deny his pain, but he did not keep his eyes fixed on it.",
+   "topics": [
+    "suffering"
+   ],
+   "scripture": [
+    "2 Corinthians 4:16-18",
+    "Hebrews 12:2",
+    "Colossians 3:1-2",
+    "Psalm 121:1-2",
+    "Hebrews 12:2",
+    "Psalm 121:1-2",
+    "2 Corinthians 4:17"
+   ],
+   "words": [
+    "christ",
+    "suffering",
+    "pain"
+   ],
+   "books": [
+    "2 Corinthians",
     "Hebrews",
     "Colossians",
+    "Psalm"
+   ]
+  },
+  {
+   "id": 31,
+   "slug": "how-do-i-grieve-as-a-christian",
+   "question": "How should a Christian grieve?",
+   "answer": "Christians grieve truly, but with hope. Jesus wept at His friend’s grave, and we may weep too, while holding on to the promise that those who die in Christ will be raised.",
+   "topics": [
+    "suffering"
+   ],
+   "scripture": [
+    "1 Thessalonians 4:13-14",
+    "John 11:35",
+    "Psalm 34:18",
+    "Revelation 21:4",
+    "Psalm 23:4",
+    "1 Thessalonians 4:14",
+    "Revelation 21:4"
+   ],
+   "words": [
+    "christ",
+    "christian",
+    "hope",
+    "promise"
+   ],
+   "books": [
+    "1 Thessalonians",
+    "John",
+    "Psalm",
+    "Revelation"
+   ]
+  },
+  {
+   "id": 32,
+   "slug": "what-if-i-feel-like-god-has-abandoned-me",
+   "question": "What if I feel like God has abandoned me?",
+   "answer": "Many faithful believers have felt that way, and Scripture gives them words to say it to God. But God’s presence does not depend on our feelings: He has promised never to leave His children, and Christ was forsaken on the cross so that they never will be.",
+   "topics": [
+    "suffering"
+   ],
+   "scripture": [
+    "Psalm 22:1",
+    "Psalm 13:1",
+    "Hebrews 13:5",
+    "Isaiah 49:15",
+    "Matthew 27:46",
+    "Hebrews 13:5",
+    "Isaiah 49:15"
+   ],
+   "words": [
+    "christ",
+    "scripture",
+    "word",
+    "believer",
+    "child",
+    "faithful"
+   ],
+   "books": [
+    "Psalm",
+    "Hebrews",
+    "Isaiah",
+    "Matthew"
+   ]
+  },
+  {
+   "id": 33,
+   "slug": "how-can-i-help-a-friend-who-is-suffering",
+   "question": "How can I help a friend who is suffering?",
+   "answer": "Be present, listen more than you speak, help in practical ways, pray with and for them, and gently bring them the comfort of God’s Word in the right season. Avoid quick answers that explain away their pain.",
+   "topics": [
+    "suffering"
+   ],
+   "scripture": [
+    "Romans 12:15",
+    "Job 2:13",
+    "Galatians 6:2",
+    "2 Corinthians 1:3-4",
+    "Proverbs 25:20",
+    "Romans 12:15",
+    "Galatians 6:2",
+    "2 Corinthians 1:4",
+    "Proverbs 25:20"
+   ],
+   "words": [
+    "word",
+    "suffering",
+    "answers",
+    "pain"
+   ],
+   "books": [
+    "Romans",
+    "Job",
+    "Galatians",
+    "2 Corinthians",
     "Proverbs"
    ]
   },
   {
-   "id": 56,
-   "slug": "how-should-parents-respond-to-a-rebellious-child",
-   "question": "How should parents respond to a rebellious child?",
-   "answer": "With prayer, patience, clear boundaries and unwavering love. Speak truth, let your child experience the consequences of his choices, refuse to enable sin, and keep the door open for his return, as the father did for the prodigal son.",
+   "id": 34,
+   "slug": "does-god-promise-to-take-away-my-suffering",
+   "question": "Does God promise to take away my suffering?",
+   "answer": "God promises to be with His people in suffering, to give them grace enough for it, and to end all suffering forever when Christ returns. He does not promise to remove every trial in this life, and sometimes His answer is grace to endure.",
    "topics": [
-    "relationships"
+    "suffering"
    ],
    "scripture": [
-    "Luke 15:11-24",
-    "Ephesians 6:4",
-    "Proverbs 22:15",
-    "1 Corinthians 13:7",
-    "James 5:16",
-    "James 5:16",
-    "1 Corinthians 13:7"
+    "2 Corinthians 12:7-10",
+    "Isaiah 43:2",
+    "John 16:33",
+    "Revelation 21:4",
+    "Isaiah 43:2",
+    "Romans 8:28",
+    "Revelation 21:4"
    ],
    "words": [
-    "love",
-    "child",
-    "respond"
+    "christ",
+    "promise",
+    "suffering"
    ],
    "books": [
-    "Luke",
-    "Ephesians",
-    "Proverbs",
-    "1 Corinthians",
-    "James"
-   ]
-  },
-  {
-   "id": 57,
-   "slug": "how-should-i-honor-difficult-parents",
-   "question": "How do I honor parents who are difficult or who hurt me?",
-   "answer": "Honoring your parents is commanded for all of life, but it does not mean obeying them as an adult, approving their sin or staying under abuse. It means treating them with respect, caring for them, speaking well of them where you truthfully can, and forgiving them, while setting wise limits where needed.",
-   "topics": [
-    "relationships"
-   ],
-   "scripture": [
-    "Exodus 20:12",
-    "Ephesians 6:1-3",
-    "Proverbs 23:22",
-    "1 Timothy 5:4",
-    "Romans 12:18",
-    "Ephesians 6:1",
-    "Genesis 2:24",
-    "1 Timothy 5:4",
-    "Acts 5:29"
-   ],
-   "words": [],
-   "books": [
-    "Exodus",
-    "Ephesians",
-    "Proverbs",
-    "1 Timothy",
-    "Romans",
-    "Genesis",
-    "Acts"
-   ]
-  },
-  {
-   "id": 58,
-   "slug": "how-can-singleness-be-lived-well",
-   "question": "How can a single Christian live well?",
-   "answer": "Singleness is not a lesser calling. Scripture calls it a gift that can free a believer for undivided devotion to the Lord. It is lived well through contentment, purity, deep friendships in the church and wholehearted service, whether for a season or for life.",
-   "topics": [
-    "relationships"
-   ],
-   "scripture": [
-    "1 Corinthians 7:7-8",
-    "1 Corinthians 7:32-35",
-    "Matthew 19:12",
-    "Isaiah 56:4-5",
-    "Philippians 4:11-13",
-    "Philippians 4:11"
-   ],
-   "words": [
-    "scripture",
-    "church",
-    "christian",
-    "believer",
-    "free"
-   ],
-   "books": [
-    "1 Corinthians",
-    "Matthew",
+    "2 Corinthians",
     "Isaiah",
-    "Philippians"
+    "John",
+    "Revelation",
+    "Romans"
+   ]
+  },
+  {
+   "id": 35,
+   "slug": "what-hope-do-christians-have-in-suffering",
+   "question": "What hope do Christians have in suffering?",
+   "answer": "The hope of glory: that the God who raised Jesus will raise us, that our present suffering is producing something eternal, and that Christ will make all things new. This hope does not disappoint, because God’s love has already been poured into our hearts.",
+   "topics": [
+    "suffering"
+   ],
+   "scripture": [
+    "Romans 8:18",
+    "Romans 5:3-5",
+    "1 Peter 1:6-7",
+    "Revelation 21:3-5",
+    "2 Corinthians 4:17",
+    "Romans 5:3-5",
+    "1 Peter 1:7",
+    "Revelation 21:4",
+    "Revelation 21:5"
+   ],
+   "words": [
+    "christ",
+    "heart",
+    "christian",
+    "love",
+    "hope",
+    "suffering"
+   ],
+   "books": [
+    "Romans",
+    "1 Peter",
+    "Revelation",
+    "2 Corinthians"
    ]
   },
   {
@@ -1990,375 +1719,646 @@
    ]
   },
   {
-   "id": 24,
-   "slug": "what-is-the-catechism-of-suffering",
-   "question": "What is the Catechism of Suffering, and how can it help?",
-   "answer": "It is a booklet of sixty short questions and answers on affliction by Matthew Statler, a pastor and biblical counselor, freely given and online at suffering.catechize.ing. Memorized and prayed over, its answers help sufferers speak truth to their own hearts when pain makes it hard to think.",
+   "id": 48,
+   "slug": "what-is-gods-design-for-marriage",
+   "question": "What is God’s design for marriage?",
+   "answer": "Marriage is a lifelong covenant union between one man and one woman, made by God, in which they become one flesh. It pictures Christ and the church, and it is the place God designed for companionship, sexual intimacy and the raising of children.",
    "topics": [
-    "suffering"
+    "relationships"
    ],
    "scripture": [
-    "Psalm 119:50",
-    "Psalm 42:5",
-    "Deuteronomy 6:6-7",
-    "Colossians 3:16",
-    "Psalm 119:50",
-    "Deuteronomy 6:6-7"
-   ],
-   "words": [
-    "biblical",
-    "heart",
-    "counselor",
-    "pastor",
-    "suffering",
-    "answers",
-    "pain",
-    "think"
-   ],
-   "books": [
-    "Psalm",
-    "Deuteronomy",
-    "Colossians"
-   ]
-  },
-  {
-   "id": 25,
-   "slug": "why-does-god-allow-his-people-to-suffer",
-   "question": "Why does God allow His people to suffer?",
-   "answer": "God does not explain every trial, but He tells us that He rules over all of them, that He works them together for the good of those who love Him, and that He uses them to make us like Christ and prepare us for glory.",
-   "topics": [
-    "suffering"
-   ],
-   "scripture": [
-    "Romans 8:28-29",
-    "Genesis 50:20",
-    "Hebrews 12:10-11",
-    "2 Corinthians 4:17",
-    "Psalm 119:71",
-    "Romans 8:28",
-    "Romans 8:29",
-    "Hebrews 12:10-11",
-    "Genesis 50:20",
-    "2 Corinthians 4:17",
-    "Psalm 119:71"
+    "Genesis 2:18-24",
+    "Matthew 19:4-6",
+    "Ephesians 5:31-32",
+    "Hebrews 13:4",
+    "Matthew 19:4",
+    "Hebrews 13:4",
+    "Ephesians 5:32"
    ],
    "words": [
     "christ",
+    "church",
+    "child"
+   ],
+   "books": [
+    "Genesis",
+    "Matthew",
+    "Ephesians",
+    "Hebrews"
+   ]
+  },
+  {
+   "id": 49,
+   "slug": "how-can-we-resolve-conflict-in-marriage",
+   "question": "How can a husband and wife resolve conflict?",
+   "answer": "Begin with your own heart: what you wanted that you did not get. Take the log out of your own eye first, confess your part specifically, listen to understand, speak the truth in love, and forgive as Christ forgave you.",
+   "topics": [
+    "relationships"
+   ],
+   "scripture": [
+    "James 4:1-2",
+    "Matthew 7:3-5",
+    "Ephesians 4:25-32",
+    "Colossians 3:12-14",
+    "Proverbs 15:1"
+   ],
+   "words": [
+    "christ",
+    "heart",
+    "love",
+    "forgive"
+   ],
+   "books": [
+    "James",
+    "Matthew",
+    "Ephesians",
+    "Colossians",
+    "Proverbs"
+   ]
+  },
+  {
+   "id": 50,
+   "slug": "how-should-a-husband-love-his-wife",
+   "question": "How should a husband love his wife?",
+   "answer": "As Christ loved the church: sacrificially, patiently and tenderly, putting her good before his comfort, leading by serving, and never being harsh with her.",
+   "topics": [
+    "relationships"
+   ],
+   "scripture": [
+    "Ephesians 5:25-29",
+    "Colossians 3:19",
+    "1 Peter 3:7",
+    "1 Corinthians 13:4-7",
+    "Ephesians 5:28-29",
+    "1 Peter 3:7",
+    "Colossians 3:19"
+   ],
+   "words": [
+    "christ",
+    "church",
     "love"
    ],
    "books": [
-    "Romans",
-    "Genesis",
-    "Hebrews",
-    "2 Corinthians",
-    "Psalm"
+    "Ephesians",
+    "Colossians",
+    "1 Peter",
+    "1 Corinthians"
    ]
   },
   {
-   "id": 26,
-   "slug": "how-should-a-christian-suffer",
-   "question": "How should a Christian respond to suffering?",
-   "answer": "By entrusting himself to God, as Christ did: bringing his pain honestly to the Father, continuing to do good, refusing bitterness and revenge, and waiting in hope for God’s deliverance.",
+   "id": 51,
+   "slug": "how-should-a-wife-respect-her-husband",
+   "question": "How should a wife respect her husband?",
+   "answer": "By honoring him, supporting his leadership in the home as to the Lord, and speaking of him and to him with respect. Biblical submission is a free, trusting choice made out of reverence for Christ; it never requires her to sin or to submit to abuse.",
    "topics": [
-    "suffering"
+    "relationships"
    ],
    "scripture": [
-    "1 Peter 4:19",
-    "1 Peter 2:21-23",
-    "Psalm 62:8",
-    "Romans 12:12",
-    "James 1:2-4"
+    "Ephesians 5:22-24",
+    "Ephesians 5:33",
+    "1 Peter 3:1-6",
+    "Titus 2:4-5",
+    "Acts 5:29",
+    "1 Peter 3:1",
+    "1 Peter 3:7",
+    "Acts 5:29"
    ],
    "words": [
     "christ",
-    "christian",
-    "hope",
-    "suffering",
-    "pain",
-    "respond"
+    "biblical",
+    "free"
    ],
    "books": [
+    "Ephesians",
     "1 Peter",
-    "Psalm",
-    "Romans",
-    "James"
+    "Titus",
+    "Acts"
    ]
   },
   {
-   "id": 27,
-   "slug": "what-is-lament",
-   "question": "What is lament, and how does it help?",
-   "answer": "Lament is honest, faithful complaint to God: telling Him your pain, asking Him to act, and choosing to trust Him. The Psalms give us words for it, and they show that grief and faith can live together.",
+   "id": 52,
+   "slug": "how-can-we-communicate-better",
+   "question": "How can we communicate better?",
+   "answer": "Speak the truth, speak it in love, speak only what builds up, listen before answering, and choose gentle words. Good communication begins with a heart that wants the other person’s good more than its own way.",
    "topics": [
-    "suffering"
+    "relationships"
    ],
    "scripture": [
-    "Psalm 13",
-    "Psalm 88",
-    "Lamentations 3:19-24",
-    "Psalm 62:8"
+    "Ephesians 4:15",
+    "Ephesians 4:25",
+    "Ephesians 4:29",
+    "James 1:19",
+    "Proverbs 18:13",
+    "James 1:19",
+    "Proverbs 18:13"
    ],
    "words": [
     "word",
-    "faithful",
-    "pain"
+    "heart",
+    "love"
    ],
    "books": [
-    "Psalm",
-    "Lamentations"
+    "Ephesians",
+    "James",
+    "Proverbs"
    ]
   },
   {
-   "id": 28,
-   "slug": "how-does-scripture-speak-to-trauma",
-   "question": "How does Scripture speak to trauma?",
-   "answer": "Scripture takes terrible suffering seriously and does not ask victims to minimize it. It shows a God who sees, a Savior who suffered, and a hope that is stronger than the memory of what happened, and it calls the church to walk patiently with those who carry such wounds.",
+   "id": 53,
+   "slug": "what-should-i-do-if-i-am-being-abused",
+   "question": "What should I do if I am being abused?",
+   "answer": "Get safe. If you are in danger, call 911. Abuse is a serious sin and often a crime, and God does not require you to stay in harm’s way. Tell your pastor or another trusted person, and let the civil authorities do their God-given work of protecting you.",
    "topics": [
-    "suffering"
+    "relationships"
    ],
    "scripture": [
-    "Psalm 34:18",
-    "Hebrews 4:15",
-    "Isaiah 53:3",
-    "2 Corinthians 4:8-10",
-    "Psalm 56:8",
-    "Psalm 56:8",
-    "Psalm 34:18",
-    "Isaiah 53:3",
-    "Hebrews 4:15",
-    "2 Corinthians 4:8"
+    "Proverbs 27:12",
+    "Romans 13:3-4",
+    "Psalm 11:5",
+    "Acts 5:29",
+    "Psalm 9:9",
+    "Proverbs 27:12",
+    "Acts 9:25",
+    "Romans 13:4",
+    "Acts 5:29"
+   ],
+   "words": [
+    "pastor"
+   ],
+   "books": [
+    "Proverbs",
+    "Romans",
+    "Psalm",
+    "Acts"
+   ]
+  },
+  {
+   "id": 54,
+   "slug": "what-does-the-bible-say-about-divorce",
+   "question": "What does the Bible say about divorce?",
+   "answer": "God hates divorce and calls married couples to keep their vows. Scripture permits divorce in two situations: sexual immorality, and the desertion of a believer by an unbelieving spouse. Even then, reconciliation is the first hope, and every case should be walked through with the elders of your church.",
+   "topics": [
+    "relationships"
+   ],
+   "scripture": [
+    "Malachi 2:16",
+    "Matthew 19:3-9",
+    "1 Corinthians 7:10-15",
+    "Ephesians 4:32",
+    "1 Corinthians 7:10-11"
    ],
    "words": [
     "scripture",
     "church",
     "hope",
-    "suffering"
+    "believer",
+    "bible"
    ],
    "books": [
-    "Psalm",
-    "Hebrews",
-    "Isaiah",
-    "2 Corinthians"
+    "Malachi",
+    "Matthew",
+    "1 Corinthians",
+    "Ephesians"
    ]
   },
   {
-   "id": 29,
-   "slug": "what-about-fight-flight-or-freeze",
-   "question": "Are \"fight, flight or freeze\" responses sinful?",
-   "answer": "The body’s alarm reactions to danger are part of how God made us, and they are not sinful in themselves. But what we do next comes from the heart, and Scripture shows that in the same moment of terror one person can lash out, another can run, and Christ can entrust Himself to the Father.",
+   "id": 55,
+   "slug": "how-should-parents-discipline-their-children",
+   "question": "How should Christian parents discipline their children?",
+   "answer": "Discipline is training a child’s heart toward God through instruction, correction and example. It should be consistent, calm and loving, aimed at the child’s heart and not merely his behavior, and never done in anger.",
    "topics": [
-    "suffering"
+    "relationships"
    ],
    "scripture": [
-    "Mark 14:33-36",
-    "John 18:10-11",
-    "Mark 14:50",
-    "1 Peter 2:23",
-    "Psalm 56:3-4",
-    "John 18:10",
-    "Mark 14:50",
-    "Mark 14:33",
-    "Mark 14:36",
-    "1 Peter 2:23"
+    "Ephesians 6:4",
+    "Deuteronomy 6:6-7",
+    "Hebrews 12:10-11",
+    "Colossians 3:21",
+    "Proverbs 22:6",
+    "Deuteronomy 6:7",
+    "Hebrews 12:10",
+    "Colossians 3:21"
    ],
    "words": [
-    "christ",
-    "scripture",
-    "heart"
+    "heart",
+    "christian",
+    "child"
    ],
    "books": [
-    "Mark",
-    "John",
-    "1 Peter",
-    "Psalm"
-   ]
-  },
-  {
-   "id": 30,
-   "slug": "where-should-i-look-when-i-am-suffering",
-   "question": "Where should I look when I am suffering?",
-   "answer": "To what is unseen and eternal: to God’s character, to Christ who suffered and now reigns, and to the glory He is preparing. Paul did not deny his pain, but he did not keep his eyes fixed on it.",
-   "topics": [
-    "suffering"
-   ],
-   "scripture": [
-    "2 Corinthians 4:16-18",
-    "Hebrews 12:2",
-    "Colossians 3:1-2",
-    "Psalm 121:1-2",
-    "Hebrews 12:2",
-    "Psalm 121:1-2",
-    "2 Corinthians 4:17"
-   ],
-   "words": [
-    "christ",
-    "suffering",
-    "pain"
-   ],
-   "books": [
-    "2 Corinthians",
+    "Ephesians",
+    "Deuteronomy",
     "Hebrews",
     "Colossians",
-    "Psalm"
+    "Proverbs"
    ]
   },
   {
-   "id": 31,
-   "slug": "how-do-i-grieve-as-a-christian",
-   "question": "How should a Christian grieve?",
-   "answer": "Christians grieve truly, but with hope. Jesus wept at His friend’s grave, and we may weep too, while holding on to the promise that those who die in Christ will be raised.",
+   "id": 56,
+   "slug": "how-should-parents-respond-to-a-rebellious-child",
+   "question": "How should parents respond to a rebellious child?",
+   "answer": "With prayer, patience, clear boundaries and unwavering love. Speak truth, let your child experience the consequences of his choices, refuse to enable sin, and keep the door open for his return, as the father did for the prodigal son.",
    "topics": [
-    "suffering"
+    "relationships"
    ],
    "scripture": [
-    "1 Thessalonians 4:13-14",
-    "John 11:35",
-    "Psalm 34:18",
-    "Revelation 21:4",
-    "Psalm 23:4",
-    "1 Thessalonians 4:14",
-    "Revelation 21:4"
+    "Luke 15:11-24",
+    "Ephesians 6:4",
+    "Proverbs 22:15",
+    "1 Corinthians 13:7",
+    "James 5:16",
+    "James 5:16",
+    "1 Corinthians 13:7"
    ],
    "words": [
-    "christ",
-    "christian",
-    "hope",
-    "promise"
-   ],
-   "books": [
-    "1 Thessalonians",
-    "John",
-    "Psalm",
-    "Revelation"
-   ]
-  },
-  {
-   "id": 32,
-   "slug": "what-if-i-feel-like-god-has-abandoned-me",
-   "question": "What if I feel like God has abandoned me?",
-   "answer": "Many faithful believers have felt that way, and Scripture gives them words to say it to God. But God’s presence does not depend on our feelings: He has promised never to leave His children, and Christ was forsaken on the cross so that they never will be.",
-   "topics": [
-    "suffering"
-   ],
-   "scripture": [
-    "Psalm 22:1",
-    "Psalm 13:1",
-    "Hebrews 13:5",
-    "Isaiah 49:15",
-    "Matthew 27:46",
-    "Hebrews 13:5",
-    "Isaiah 49:15"
-   ],
-   "words": [
-    "christ",
-    "scripture",
-    "word",
-    "believer",
+    "love",
     "child",
-    "faithful"
+    "respond"
    ],
    "books": [
-    "Psalm",
-    "Hebrews",
+    "Luke",
+    "Ephesians",
+    "Proverbs",
+    "1 Corinthians",
+    "James"
+   ]
+  },
+  {
+   "id": 57,
+   "slug": "how-should-i-honor-difficult-parents",
+   "question": "How do I honor parents who are difficult or who hurt me?",
+   "answer": "Honoring your parents is commanded for all of life, but it does not mean obeying them as an adult, approving their sin or staying under abuse. It means treating them with respect, caring for them, speaking well of them where you truthfully can, and forgiving them, while setting wise limits where needed.",
+   "topics": [
+    "relationships"
+   ],
+   "scripture": [
+    "Exodus 20:12",
+    "Ephesians 6:1-3",
+    "Proverbs 23:22",
+    "1 Timothy 5:4",
+    "Romans 12:18",
+    "Ephesians 6:1",
+    "Genesis 2:24",
+    "1 Timothy 5:4",
+    "Acts 5:29"
+   ],
+   "words": [],
+   "books": [
+    "Exodus",
+    "Ephesians",
+    "Proverbs",
+    "1 Timothy",
+    "Romans",
+    "Genesis",
+    "Acts"
+   ]
+  },
+  {
+   "id": 58,
+   "slug": "how-can-singleness-be-lived-well",
+   "question": "How can a single Christian live well?",
+   "answer": "Singleness is not a lesser calling. Scripture calls it a gift that can free a believer for undivided devotion to the Lord. It is lived well through contentment, purity, deep friendships in the church and wholehearted service, whether for a season or for life.",
+   "topics": [
+    "relationships"
+   ],
+   "scripture": [
+    "1 Corinthians 7:7-8",
+    "1 Corinthians 7:32-35",
+    "Matthew 19:12",
+    "Isaiah 56:4-5",
+    "Philippians 4:11-13",
+    "Philippians 4:11"
+   ],
+   "words": [
+    "scripture",
+    "church",
+    "christian",
+    "believer",
+    "free"
+   ],
+   "books": [
+    "1 Corinthians",
+    "Matthew",
     "Isaiah",
+    "Philippians"
+   ]
+  },
+  {
+   "id": 59,
+   "slug": "why-does-counseling-belong-in-the-local-church",
+   "question": "Why does counseling belong in the local church?",
+   "answer": "Because the church is where Christ has placed His people to grow: under shepherds who watch over their souls, among believers who know them, with the Word preached, the ordinances given and the body caring for its members. Counseling cut off from the church loses much of what makes it work.",
+   "topics": [
+    "church"
+   ],
+   "scripture": [
+    "Ephesians 4:11-16",
+    "Romans 15:14",
+    "Hebrews 10:24-25",
+    "Acts 20:28",
+    "1 Corinthians 12:26",
+    "Hebrews 13:17",
+    "Matthew 18:15-17",
+    "1 Corinthians 12:26"
+   ],
+   "words": [
+    "christ",
+    "word",
+    "counseling",
+    "church",
+    "believer"
+   ],
+   "books": [
+    "Ephesians",
+    "Romans",
+    "Hebrews",
+    "Acts",
+    "1 Corinthians",
     "Matthew"
    ]
   },
   {
-   "id": 33,
-   "slug": "how-can-i-help-a-friend-who-is-suffering",
-   "question": "How can I help a friend who is suffering?",
-   "answer": "Be present, listen more than you speak, help in practical ways, pray with and for them, and gently bring them the comfort of God’s Word in the right season. Avoid quick answers that explain away their pain.",
+   "id": 60,
+   "slug": "what-role-do-pastors-play-in-counseling",
+   "question": "What role do pastors play in counseling?",
+   "answer": "Pastors are shepherds who must watch over the souls of their flock, so personal counsel from the Word is part of their calling. They counsel, train others to counsel, and oversee the care of the whole congregation.",
    "topics": [
-    "suffering"
+    "church"
    ],
    "scripture": [
-    "Romans 12:15",
-    "Job 2:13",
-    "Galatians 6:2",
-    "2 Corinthians 1:3-4",
-    "Proverbs 25:20",
-    "Romans 12:15",
-    "Galatians 6:2",
-    "2 Corinthians 1:4",
-    "Proverbs 25:20"
+    "Acts 20:28",
+    "1 Peter 5:2-3",
+    "Hebrews 13:17",
+    "Colossians 1:28-29",
+    "Acts 20:20",
+    "Ephesians 4:12",
+    "1 Peter 5:2-3"
    ],
    "words": [
     "word",
-    "suffering",
-    "answers",
-    "pain"
+    "counseling",
+    "counsel",
+    "pastor",
+    "others"
+   ],
+   "books": [
+    "Acts",
+    "1 Peter",
+    "Hebrews",
+    "Colossians",
+    "Ephesians"
+   ]
+  },
+  {
+   "id": 61,
+   "slug": "how-can-church-members-counsel-one-another",
+   "question": "How can ordinary church members counsel one another?",
+   "answer": "By knowing one another, praying for one another, listening carefully, sharing God’s Word in everyday conversation, encouraging the fainthearted, gently restoring the straying, and bringing harder situations to the pastors.",
+   "topics": [
+    "church"
+   ],
+   "scripture": [
+    "Romans 15:14",
+    "Colossians 3:16",
+    "Galatians 6:1-2",
+    "1 Thessalonians 5:14",
+    "Hebrews 3:13",
+    "James 1:19",
+    "1 Thessalonians 5:14",
+    "Galatians 6:1"
+   ],
+   "words": [
+    "word",
+    "church",
+    "counsel",
+    "pastor"
    ],
    "books": [
     "Romans",
-    "Job",
+    "Colossians",
+    "Galatians",
+    "1 Thessalonians",
+    "Hebrews",
+    "James"
+   ]
+  },
+  {
+   "id": 62,
+   "slug": "how-can-the-church-help-veterans-after-they-come-home",
+   "question": "How can the church help veterans after they come home?",
+   "answer": "By welcoming them, investing in them, and giving them a place to serve. Many veterans struggle when the mission ends; the church can help them find their hope in Christ rather than in country or service, resist bitterness and isolation, and take up a new mission in family, church and community.",
+   "topics": [
+    "church"
+   ],
+   "scripture": [
+    "Psalm 146:3",
+    "Hebrews 12:15",
+    "Ecclesiastes 4:9-10",
+    "1 Samuel 22:1-2",
+    "2 Timothy 2:3",
+    "Ecclesiastes 4:9-10",
+    "Psalm 146:3",
+    "Hebrews 12:15",
+    "1 Samuel 22:1-2",
+    "2 Timothy 2:3"
+   ],
+   "words": [
+    "christ",
+    "church",
+    "hope"
+   ],
+   "books": [
+    "Psalm",
+    "Hebrews",
+    "Ecclesiastes",
+    "1 Samuel",
+    "2 Timothy"
+   ]
+  },
+  {
+   "id": 63,
+   "slug": "should-biblical-counseling-be-free",
+   "question": "Should biblical counseling be free?",
+   "answer": "Yes. Counseling from God’s Word is ministry of the Word, and Christ commands that His ministry be given freely. Churches and believers should support counselors, so that no one is charged for counsel or turned away because they cannot pay.",
+   "topics": [
+    "church"
+   ],
+   "scripture": [
+    "Matthew 10:8",
+    "1 Corinthians 9:18",
+    "Galatians 6:6",
+    "2 Corinthians 2:17",
+    "Proverbs 3:27"
+   ],
+   "words": [
+    "christ",
+    "word",
+    "counseling",
+    "biblical",
+    "church",
+    "counselor",
+    "counsel",
+    "believer",
+    "free"
+   ],
+   "books": [
+    "Matthew",
+    "1 Corinthians",
     "Galatians",
     "2 Corinthians",
     "Proverbs"
    ]
   },
   {
-   "id": 34,
-   "slug": "does-god-promise-to-take-away-my-suffering",
-   "question": "Does God promise to take away my suffering?",
-   "answer": "God promises to be with His people in suffering, to give them grace enough for it, and to end all suffering forever when Christ returns. He does not promise to remove every trial in this life, and sometimes His answer is grace to endure.",
+   "id": 64,
+   "slug": "is-counseling-confidential",
+   "question": "Is what I say in counseling kept confidential?",
+   "answer": "A faithful counselor keeps confidences and does not gossip. But confidentiality has biblical limits: a counselor cannot keep secret a danger to life, the abuse of a child or vulnerable person, a crime that must be reported, or unrepentant sin that requires the church’s care. A good counselor explains these limits at the start.",
    "topics": [
-    "suffering"
+    "church"
    ],
    "scripture": [
-    "2 Corinthians 12:7-10",
-    "Isaiah 43:2",
-    "John 16:33",
-    "Revelation 21:4",
-    "Isaiah 43:2",
-    "Romans 8:28",
-    "Revelation 21:4"
+    "Proverbs 11:13",
+    "Proverbs 20:19",
+    "Romans 13:3-4",
+    "Matthew 18:15-17",
+    "Galatians 6:1",
+    "Romans 13:4",
+    "Matthew 18:15-17"
    ],
    "words": [
-    "christ",
-    "promise",
-    "suffering"
+    "counseling",
+    "biblical",
+    "church",
+    "counselor",
+    "child",
+    "faithful"
    ],
    "books": [
-    "2 Corinthians",
-    "Isaiah",
-    "John",
-    "Revelation",
-    "Romans"
+    "Proverbs",
+    "Romans",
+    "Matthew",
+    "Galatians"
    ]
   },
   {
-   "id": 35,
-   "slug": "what-hope-do-christians-have-in-suffering",
-   "question": "What hope do Christians have in suffering?",
-   "answer": "The hope of glory: that the God who raised Jesus will raise us, that our present suffering is producing something eternal, and that Christ will make all things new. This hope does not disappoint, because God’s love has already been poured into our hearts.",
+   "id": 65,
+   "slug": "how-do-i-find-a-good-biblical-counselor",
+   "question": "How do I find a good biblical counselor?",
+   "answer": "Start with your own pastor. If you need more help, look for a counselor who is committed to the sufficiency of Scripture, accountable to a local church, sound in doctrine, wise and humble, and, ideally, who counsels freely.",
    "topics": [
-    "suffering"
+    "church"
    ],
    "scripture": [
-    "Romans 8:18",
-    "Romans 5:3-5",
-    "1 Peter 1:6-7",
-    "Revelation 21:3-5",
-    "2 Corinthians 4:17",
-    "Romans 5:3-5",
-    "1 Peter 1:7",
-    "Revelation 21:4",
-    "Revelation 21:5"
+    "Proverbs 12:15",
+    "Proverbs 15:22",
+    "1 Timothy 4:16",
+    "Titus 1:9",
+    "1 John 4:1"
    ],
    "words": [
-    "christ",
-    "heart",
-    "christian",
-    "love",
-    "hope",
-    "suffering"
+    "scripture",
+    "biblical",
+    "church",
+    "counselor",
+    "counsel",
+    "pastor"
    ],
    "books": [
+    "Proverbs",
+    "1 Timothy",
+    "Titus",
+    "1 John"
+   ]
+  },
+  {
+   "id": 66,
+   "slug": "what-is-acbc-certification",
+   "question": "What is ACBC certification?",
+   "answer": "The Association of Certified Biblical Counselors certifies counselors who complete theological and counseling training, pass written exams, are evaluated by their church, and counsel under supervision, all on the conviction that Scripture is sufficient for counseling. It is one widely recognized mark of training in biblical counseling.",
+   "topics": [
+    "church"
+   ],
+   "scripture": [
+    "2 Timothy 2:2",
+    "2 Timothy 2:15",
+    "1 Timothy 4:16",
+    "Proverbs 27:17",
+    "2 Timothy 2:15",
+    "Proverbs 27:17"
+   ],
+   "words": [
+    "scripture",
+    "counseling",
+    "biblical",
+    "church",
+    "counselor",
+    "counsel"
+   ],
+   "books": [
+    "2 Timothy",
+    "1 Timothy",
+    "Proverbs"
+   ]
+  },
+  {
+   "id": 67,
+   "slug": "how-can-i-be-trained-to-counsel",
+   "question": "How can I be trained to counsel others biblically?",
+   "answer": "Grow in the Word and in godliness first. Then learn from your pastors, read sound books on biblical counseling, take training courses, watch experienced counselors, and practice under supervision. The goal is not technique but wisdom.",
+   "topics": [
+    "church"
+   ],
+   "scripture": [
+    "2 Timothy 2:2",
+    "2 Timothy 3:16-17",
+    "Romans 15:14",
+    "Galatians 6:1",
+    "James 3:1"
+   ],
+   "words": [
+    "word",
+    "counseling",
+    "biblical",
+    "counselor",
+    "counsel",
+    "pastor",
+    "others"
+   ],
+   "books": [
+    "2 Timothy",
     "Romans",
-    "1 Peter",
-    "Revelation",
-    "2 Corinthians"
+    "Galatians",
+    "James"
+   ]
+  },
+  {
+   "id": 68,
+   "slug": "what-is-the-role-of-homework-in-counseling",
+   "question": "Why do biblical counselors give homework?",
+   "answer": "Because change happens in daily life, not only in the counseling room. Homework helps the counselee apply God’s Word between meetings: reading and meditating on Scripture, praying, practicing new habits and taking concrete steps of obedience.",
+   "topics": [
+    "church"
+   ],
+   "scripture": [
+    "James 1:22-25",
+    "Philippians 4:9",
+    "1 Timothy 4:7",
+    "Hebrews 5:14"
+   ],
+   "words": [
+    "scripture",
+    "word",
+    "counseling",
+    "biblical",
+    "change",
+    "counselor",
+    "obedience"
+   ],
+   "books": [
+    "James",
+    "Philippians",
+    "1 Timothy",
+    "Hebrews"
    ]
   }
  ]
